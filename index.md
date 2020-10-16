@@ -39,7 +39,7 @@ page_sections:
     amount helps in this cause. <br><br>The day of, I am planning on a 5K walk from
     Shedd Park to Downtown Lowell. During these times, it is important we social distance.
   media:
-    image: "/uploads/2020/10/16/img_0201.HEIC"
+    image: "/uploads/2020/10/16/pic8.jpg"
     alt_text: ''
 - template: full-width-media-element
   block: media-1
