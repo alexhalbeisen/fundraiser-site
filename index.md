@@ -30,7 +30,7 @@ page_sections:
     alt_text: uBuild Blocks Mock-Up
 - template: 1-column-text
   block: one-column-1
-  slug: responsive
+  slug: ''
   headline: 16 Fully Responsive Design Blocks
   content: |
     The Design Blocks can be used without Forestry but to harness the power
