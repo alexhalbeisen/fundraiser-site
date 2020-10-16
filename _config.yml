@@ -4,7 +4,7 @@ author: Alexander Halbeisen
 email: alex.halbeisen@gmail.com
 description: For my loved one.
 baseurl: "/"
-url: loveyourself.fund
+url: loveryourself.fund
 defaults:
 - scope:
     path: ''
