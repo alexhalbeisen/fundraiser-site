@@ -6,13 +6,13 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: love yourself<br><strong>fundraiser walk</strong>
+  content: for mental health awareness, suicide prevention, tierica<br>shedd park<br>december
+    5th, 2020
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://afsp.donordrive.com/
+    button_text: Donate Here
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
