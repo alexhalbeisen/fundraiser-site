@@ -26,7 +26,7 @@ page_sections:
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
-    image: ''
+    image: "/uploads/2020/10/16/img_0201.HEIC"
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
