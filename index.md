@@ -7,8 +7,8 @@ page_sections:
   block: hero-2
   slug: features
   headline: love yourself<br><strong>fundraiser walk</strong>
-  content: for mental health awareness, suicide prevention, tierica.<br>shedd park<br>december
-    5th, 2020
+  content: for mental health awareness, suicide prevention, tierica.<br>meet at shedd
+    park - route undecided<br>december 5th, weather permitting
   cta:
     enabled: true
     url: https://afsp.donordrive.com/
