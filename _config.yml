@@ -4,7 +4,7 @@ author: Alexander Halbeisen
 email: alex.halbeisen@gmail.com
 description: For my loved one.
 baseurl: "/fortierica"
-url: ''
+url: loveyourself.fund
 defaults:
 - scope:
     path: ''
