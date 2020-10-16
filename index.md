@@ -17,6 +17,14 @@ page_sections:
     image: ''
     alt_text: ''
   background_image: "/uploads/2020/10/16/thomas-heintz-0tgmnmiyq9y-unsplash.jpg"
+- template: 1-column-text
+  block: one-column-1
+  slug: ''
+  headline: info
+  content: |
+    The Design Blocks can be used without Forestry but to harness the power
+    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
+    create new sites and make them fully customizable.
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -28,14 +36,6 @@ page_sections:
   media:
     image: "/uploads/2020/10/16/img_0201.HEIC"
     alt_text: ''
-- template: 1-column-text
-  block: one-column-1
-  slug: ''
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
 - template: full-width-media-element
   block: media-1
   caption: ''
