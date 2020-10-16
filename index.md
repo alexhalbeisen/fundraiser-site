@@ -27,8 +27,17 @@ page_sections:
   media_alignment: Left
   slug: ''
   headline: "<strong>info</strong>"
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  content: Honoring the memory of Tierica is something that has challenged me for
+    a while. I have been unsure the best way to appreciate those years I was fortunate
+    to know her. December 5th would have been her 26th birthday. She never liked big
+    gestures. It was always the small things that had the most impact. Likewise, she
+    encouraged me to take small steps to reach those bigger goals. On this day, I
+    would like to start the first year of the 'love yourself' fundraiser. <br><br>The
+    goal is to spread awareness of mental health and suicide prevention in her honor.
+    Unlike most fundraisers, I will not collect payment. I ask you to pledge a donation
+    to the American Foundation for Suicide Prevention in the name of Tierica. Any
+    amount helps in this cause. <br><br>The day of, I am planning on a 5K walk from
+    Shedd Park to Downtown Lowell. During these times, it is important we social distance.
   media:
     image: "/uploads/2020/10/16/img_0201.HEIC"
     alt_text: ''
