@@ -38,7 +38,7 @@ page_sections:
     create new sites and make them fully customizable.
 - template: full-width-media-element
   block: media-1
-  caption: All Available Blocks
+  caption: ''
   slug: ''
   image: ''
 - template: detail-content
