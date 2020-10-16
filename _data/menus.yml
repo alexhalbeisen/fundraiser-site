@@ -1,6 +1,6 @@
 ---
 main:
 - identifier: home
-  url: "/fortierica"
+  url: "/"
   weight: 1
   title: Home
