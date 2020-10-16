@@ -14,7 +14,7 @@ page_sections:
     url: https://afsp.donordrive.com/
     button_text: Donate Here
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: ''
     alt_text: Product Shot
   background_image: "/uploads/2020/10/16/thomas-heintz-0tgmnmiyq9y-unsplash.jpg"
 - template: content-feature
