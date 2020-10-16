@@ -26,7 +26,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: ''
-  headline: "<strong>info</strong>"
+  headline: "<strong>about</strong>"
   content: Honoring the memory of Tierica is something that has challenged me for
     a while. I have been unsure the best way to appreciate those years I was fortunate
     to know her. December 5th would have been her 26th birthday. She never liked big
