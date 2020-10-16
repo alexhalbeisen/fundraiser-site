@@ -15,7 +15,7 @@ page_sections:
     button_text: Donate Here
   image:
     image: ''
-    alt_text: Product Shot
+    alt_text: ''
   background_image: "/uploads/2020/10/16/thomas-heintz-0tgmnmiyq9y-unsplash.jpg"
 - template: content-feature
   block: feature-1
