@@ -39,14 +39,14 @@ page_sections:
     be proud of. So, my next step is setting forth the first year of the ''love yourself''
     fundraiser. <br><br>The goal is to raise awareness of mental health and suicide
     prevention in her honor. Unlike most fundraisers, I will not seek payment. I ask
-    you to pledge a donation to the American Foundation for Suicide Prevention in
-    her name. Any amount helps in this cause. Together, these small gestures can make
-    a difference in creating a better world.<br><br>The day of, there will be a 5K
-    walk from Shedd Park to Downtown Lowell. During these times, it is important we
-    social distance and anyone who wishes to organize their own way in solidarity
-    is free to do so. Whether it be a 5K on their own, making a donation, showing
-    self love - making that step is the spirit of the cause. <br><br>This is what
-    she would want for the world; to show compassion for yourself and others. '
+    you to pledge a donation to the listed charities in her name. Any amount helps
+    in this cause. Together, these small gestures can make a difference in creating
+    a better world.<br><br>The day of, there will be a 5K walk from Shedd Park to
+    Downtown Lowell. During these times, it is important we social distance and anyone
+    who wishes to organize their own way in solidarity is free to do so. Whether it
+    be a 5K on their own, making a donation, showing self love - making that step
+    is the spirit of the cause. <br><br>This is what she would want for the world;
+    to show compassion for yourself and others. '
   media:
     image: "/uploads/2020/10/16/pic8.jpg"
     alt_text: ''
