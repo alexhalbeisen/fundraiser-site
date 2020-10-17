@@ -62,11 +62,6 @@ page_sections:
   media:
     image: "/uploads/2020/10/17/screen-shot-2020-10-17-at-12-02-39-am.png"
     alt_text: ''
-- template: full-width-media-element
-  block: media-1
-  caption: ''
-  slug: ''
-  image: ''
 - template: detail-content
   block: text-1
   headline: charities
