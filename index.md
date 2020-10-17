@@ -21,7 +21,7 @@ page_sections:
   block: one-column-1
   slug: ''
   headline: "'love yourself'"
-  content: ''
+  content: "<strong>...</strong>"
 - template: content-feature
   block: feature-1
   media_alignment: Left
