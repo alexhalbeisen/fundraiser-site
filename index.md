@@ -73,6 +73,6 @@ page_sections:
   content: "<p>suicide hotline number: 800-273-8255</p><p>online therapy sites: </p>"
 - template: simple-footer
   block: footer-1
-  content: organized by alex halbeisen
+  content: organized by alex halbeisen ❤️
 
 ---
