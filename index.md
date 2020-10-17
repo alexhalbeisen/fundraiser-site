@@ -57,7 +57,7 @@ page_sections:
   content: 'when: december 5th<br>where: shedd park<br>where to: downtown lowell'
   slug: ''
   media:
-    image: ''
+    image: "/uploads/2020/10/17/screen-shot-2020-10-17-at-12-02-39-am.png"
     alt_text: ''
 - template: full-width-media-element
   block: media-1
