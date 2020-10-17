@@ -26,18 +26,27 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: ''
-  headline: "<strong>about</strong>"
-  content: Honoring the memory of Tierica is something that has challenged me for
-    a while. I have been unsure the best way to appreciate those years I was fortunate
-    to know her. December 5th would have been her 26th birthday. She never liked big
-    gestures. It was always the small things that had the most impact. Likewise, she
-    encouraged me to take small steps to reach those bigger goals. On this day, I
-    would like to start the first year of the 'love yourself' fundraiser. <br><br>The
-    goal is to spread awareness of mental health and suicide prevention in her honor.
-    Unlike most fundraisers, I will not collect payment. I ask you to pledge a donation
-    to the American Foundation for Suicide Prevention in the name of Tierica. Any
-    amount helps in this cause. <br><br>The day of, I am planning on a 5K walk from
-    Shedd Park to Downtown Lowell. During these times, it is important we social distance.
+  headline: "<strong>for tierica</strong>"
+  content: 'December 5th would have been her 26th birthday. She never cared for material
+    or extravagant gestures. It was always the little and meaningful things she appreciated
+    the most. If something supported a greater good, like better for our planet and
+    its inhabitants, she''d rather money go there instead. <br><br>It''s these small
+    contributions that she believed would make a bigger difference. Likewise, she
+    was an advocate for being kind towards yourself. Even if you were having a challenging
+    day, she''d encourage you to take it one step at a time. Make those tiny strides
+    in life to succeed, those movements will get you there in the end.<br><br>Recently,
+    I have been faced with a personal challenge of honoring her in a way she would
+    be proud of. So, my next step is setting forth the first year of the ''love yourself''
+    fundraiser. <br><br>The goal is to raise awareness of mental health and suicide
+    prevention in her honor. Unlike most fundraisers, I will not seek payment. I ask
+    you to pledge a donation to the American Foundation for Suicide Prevention in
+    her name. Any amount helps in this cause. Together, these small gestures can make
+    a difference in creating a better world.<br><br>The day of, there will be a 5K
+    walk from Shedd Park to Downtown Lowell. During these times, it is important we
+    social distance and anyone who wishes to organize their own way in solidarity
+    is free to do so. Whether it be a 5K on their own, making a donation, showing
+    self love - making that step is the spirit of the cause. <br><br>This is what
+    she would want for the world; to show compassion for yourself and others. '
   media:
     image: "/uploads/2020/10/16/pic8.jpg"
     alt_text: ''
