@@ -66,6 +66,11 @@ page_sections:
   image: ''
 - template: detail-content
   block: text-1
+  headline: charities
+  content: "<ul><li><p>American Foundation for Suicide Prevention</p></li><li><p>Brain
+    &amp; Behavior Research Foundation</p></li></ul>"
+- template: detail-content
+  block: text-1
   headline: resources
   content: "<p>suicide hotline number: 800-273-8255</p><p>online therapy sites: </p>"
 - template: simple-footer
