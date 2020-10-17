@@ -56,7 +56,7 @@ page_sections:
   headline: "<strong>info</strong>"
   content: 'when: december 5th<br>where: shedd park<br>where to: downtown lowell<br>what
     to wear: something warm! <br>what to bring: your mask and a sign supporting the
-    cause! (optional)'
+    cause! (that''s optional)'
   slug: ''
   media:
     image: "/uploads/2020/10/17/screen-shot-2020-10-17-at-12-02-39-am.png"
