@@ -16,7 +16,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: "/uploads/2020/10/16/thomas-heintz-0tgmnmiyq9y-unsplash.jpg"
+  background_image: "/uploads/2020/10/17/4073194.jpg"
 - template: 1-column-text
   block: one-column-1
   slug: ''
