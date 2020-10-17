@@ -50,6 +50,15 @@ page_sections:
   media:
     image: "/uploads/2020/10/16/pic8.jpg"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>info</strong>"
+  content: 'when: december 5th<br>where: shedd park<br>where to: downtown lowell'
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: full-width-media-element
   block: media-1
   caption: ''
