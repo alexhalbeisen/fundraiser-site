@@ -67,7 +67,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: 'other charities she''d love '
-  content: "<ul><li><p>Brain &amp; Behavior Research Foundation</p></li></ul>"
+  content: "<ul><li><p>Brain &amp; Behavior Research Foundation</p></li><li><p>National
+    Alliance on Mental Illness</p></li><li><p>100% HUMAN</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: resources
