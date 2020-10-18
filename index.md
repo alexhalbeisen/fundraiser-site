@@ -7,9 +7,9 @@ page_sections:
   block: header-2
   navigation:
   - link: "#about"
-    link_text: about
+    link_text: for tierica
   - link: "#info"
-    link_text: link
+    link_text: info
   logo: "/uploads/2020/10/18/moon.png"
   cta:
     url: https://afsp.donordrive.com/campaign/love-yourself
