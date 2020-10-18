@@ -12,7 +12,7 @@ page_sections:
   cta:
     enabled: true
     url: https://afsp.donordrive.com/campaign/love-yourself
-    button_text: donate here
+    button_text: donate link here
   image:
     image: ''
     alt_text: ''
