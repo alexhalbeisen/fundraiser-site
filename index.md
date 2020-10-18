@@ -64,9 +64,8 @@ page_sections:
     alt_text: ''
 - template: detail-content
   block: text-1
-  headline: other charities
-  content: "<ul><li><p>American Foundation for Suicide Prevention</p></li><li><p>Brain
-    &amp; Behavior Research Foundation</p></li></ul>"
+  headline: 'other charities she''d love '
+  content: "<ul><li><p>Brain &amp; Behavior Research Foundation</p></li></ul>"
 - template: detail-content
   block: text-1
   headline: resources
