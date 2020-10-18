@@ -3,15 +3,6 @@ layout: blocks
 title: Homepage
 date: 
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  navigation:
-  - link: info
-    link_text: info
-  logo: ''
-  cta:
-    url: ''
-    button_text: ''
 - template: navigation-header
   block: header-1
   navigation:
