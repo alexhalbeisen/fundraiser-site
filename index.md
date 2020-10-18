@@ -3,12 +3,6 @@ layout: blocks
 title: Homepage
 date: 
 page_sections:
-- template: navigation-header
-  block: header-1
-  navigation:
-  - link: 'info '
-    link_text: info
-  logo: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
