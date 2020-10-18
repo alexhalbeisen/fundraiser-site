@@ -67,7 +67,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: merch
   content: 'I will be working on the design of t-shirts where all profits will go
     to the charity. '
