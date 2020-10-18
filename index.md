@@ -6,6 +6,8 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   navigation:
+  - link: "#about"
+    link_text: about
   - link: "#info"
     link_text: link
   logo: ''
