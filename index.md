@@ -72,10 +72,10 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: resources
-  content: '<p>suicide hotline number: 800-273-8255</p><p>ways to find therapy: </p><ul><li><p><a
-    href="https://zencare.co/" title="https://zencare.co/" target="_blank">https://zencare.co/</a></p></li><li><p><a
+  content: '<p>suicide hotline number: 800-273-8255</p><p>ways to find therapy:</p><blockquote><p><a
+    href="https://zencare.co/" title="https://zencare.co/" target="_blank">https://zencare.co/</a></p><p><a
     href="https://www.psychologytoday.com/us" title="https://www.psychologytoday.com/us"
-    target="_blank">https://www.psychologytoday.com/us</a></p></li></ul>'
+    target="_blank">https://www.psychologytoday.com/us</a></p></blockquote>'
 - template: simple-footer
   block: footer-1
   content: organized by alex halbeisen ❤️
