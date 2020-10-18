@@ -48,8 +48,7 @@ page_sections:
     closely prior to the date. Even if you feel like you are unable to participate,
     a donation or educating yourself (and others) on these issues is equally a step
     in the right direction. <br><br>This is what she would want for the world; continue
-    to help those who are struggling. Remember to love yourself and others around
-    you.
+    to help those who are struggling. Love yourself and others around you.
   media:
     image: "/uploads/2020/10/16/pic8.jpg"
     alt_text: ''
