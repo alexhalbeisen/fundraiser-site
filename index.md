@@ -65,6 +65,16 @@ page_sections:
   media:
     image: "/uploads/2020/10/17/screen-shot-2020-10-17-at-12-02-39-am.png"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: merch
+  content: 'I will be working on the design of t-shirts where all profits will go
+    to the charity. '
+  media:
+    image: "/uploads/2020/10/18/a_89291_mt-6-2.jpg"
+    alt_text: ''
+  slug: ''
 - template: detail-content
   block: text-1
   headline: 'other charities she''d love to support '
