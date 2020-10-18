@@ -68,9 +68,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: merch
-  content: 'I will be working on the design of t-shirts where all profits will go
-    to the charity. '
+  headline: store
+  content: I will be working on the design of t-shirts where all profits will go to
+    the charity. Please reach out to me if you are interested as well as your shirt
+    size!
   media:
     image: "/uploads/2020/10/18/a_89291_mt-6-2.jpg"
     alt_text: ''
