@@ -10,7 +10,7 @@ page_sections:
     link_text: about
   - link: "#info"
     link_text: link
-  logo: ''
+  logo: "/uploads/2020/10/18/moon.png"
   cta:
     url: https://afsp.donordrive.com/campaign/love-yourself
     button_text: donate
