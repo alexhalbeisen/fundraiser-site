@@ -36,7 +36,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: ''
+  slug: about
   headline: "<strong>for tierica</strong>"
   content: December 5th would have been her 26th birthday. She never cared for material
     or extravagant gestures. It was always the little and meaningful things she appreciated
