@@ -46,7 +46,8 @@ page_sections:
     conditions which will be followed closely prior to the date. Even if you feel
     like you are unable to participate, a donation or educating yourself (and others)
     on these issues is equally a step in the right direction. <br><br>This is what
-    she would want for the world; to show compassion for yourself and others.
+    she would want for the world; to show compassion for yourself and others. Love
+    yourself.
   media:
     image: "/uploads/2020/10/16/pic8.jpg"
     alt_text: ''
