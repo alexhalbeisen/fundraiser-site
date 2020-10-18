@@ -3,17 +3,6 @@ layout: blocks
 title: Homepage
 date: 
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  navigation:
-  - link: "#about"
-    link_text: for tierica
-  - link: "#info"
-    link_text: info
-  logo: "/uploads/2020/10/18/moon.png"
-  cta:
-    url: https://afsp.donordrive.com/campaign/love-yourself
-    button_text: donate
 - template: hero-banner-w-image
   block: hero-2
   slug: features
