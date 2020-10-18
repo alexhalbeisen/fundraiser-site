@@ -89,6 +89,11 @@ page_sections:
     href="https://zencare.co/" title="https://zencare.co/" target="_blank">https://zencare.co/</a></p><p><a
     href="https://www.psychologytoday.com/us" title="https://www.psychologytoday.com/us"
     target="_blank">https://www.psychologytoday.com/us</a></p></blockquote>'
+- template: detail-content
+  block: text-1
+  headline: contact
+  content: "<p>Hi, I'm Alex btw. For more information or you'd like to do more I'm
+    available here:</p><blockquote><p>text: (978)995-6393</p><p>email: alex.halbeisen@gmail.com</p></blockquote>"
 - template: simple-footer
   block: footer-1
   content: organized by alex halbeisen ❤️
