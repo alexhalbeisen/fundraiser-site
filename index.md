@@ -93,7 +93,7 @@ page_sections:
   block: text-1
   headline: contact
   content: "<p>Hi, I'm Alex btw. For more information or you'd like to do more I'm
-    available here:</p><blockquote><p>text: (978)995-6393</p><p>email: alex.halbeisen@gmail.com</p></blockquote>"
+    available here:</p><p></p><blockquote><p>text: (978)995-6393</p><p>email: alex.halbeisen@gmail.com</p></blockquote>"
 - template: simple-footer
   block: footer-1
   content: organized by alex halbeisen ❤️
