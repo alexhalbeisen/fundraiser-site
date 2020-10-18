@@ -12,8 +12,8 @@ page_sections:
     link_text: link
   logo: ''
   cta:
-    url: ''
-    button_text: ''
+    url: https://afsp.donordrive.com/campaign/love-yourself
+    button_text: donate
 - template: hero-banner-w-image
   block: hero-2
   slug: features
