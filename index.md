@@ -11,7 +11,7 @@ page_sections:
     5th, weather permitting<br><br>more info below
   cta:
     enabled: true
-    url: https://afsp.donordrive.com/
+    url: https://afsp.donordrive.com/campaign/love-yourself
     button_text: donate here
   image:
     image: ''
