@@ -40,14 +40,14 @@ page_sections:
     fundraiser. <br><br>The goal is to raise awareness of mental health and suicide
     prevention in her honor. A memorial has been created with the American Foundation
     for Suicide Prevention in her name. Any amount helps in this cause. Together,
-    these small gestures can make a difference in creating a better world. <br><br>The
-    day of, there will be a 5K walk from Shedd Park to Downtown Lowell. During these
-    times, it is important we social distance. Also, this event depends on weather
-    conditions which will be followed closely prior to the date. Even if you feel
-    like you are unable to participate, a donation or educating yourself (and others)
-    on these issues is equally a step in the right direction. <br><br>This is what
-    she would want for the world; continue to help those who are struggling. Remember
-    to love yourself and others around you.
+    these small gestures can make a difference in creating a better world. The link
+    to donate is above.<br><br>The day of, there will be a 5K walk from Shedd Park
+    to Downtown Lowell. During these times, it is important we social distance. Also,
+    this event depends on weather conditions which will be followed closely prior
+    to the date. Even if you feel like you are unable to participate, a donation or
+    educating yourself (and others) on these issues is equally a step in the right
+    direction. <br><br>This is what she would want for the world; continue to help
+    those who are struggling. Remember to love yourself and others around you.
   media:
     image: "/uploads/2020/10/16/pic8.jpg"
     alt_text: ''
