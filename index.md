@@ -8,7 +8,7 @@ page_sections:
   slug: features
   headline: love yourself<br><strong>fundraiser walk</strong>
   content: for mental health awareness, suicide prevention, tierica.<br><br>december
-    5th, weather permitting<br><br>more info below
+    5th, weather permitting<br><br><em>more info below</em>
   cta:
     enabled: true
     url: https://afsp.donordrive.com/campaign/love-yourself
