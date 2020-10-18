@@ -66,7 +66,7 @@ page_sections:
     alt_text: ''
 - template: detail-content
   block: text-1
-  headline: 'other charities she''d love '
+  headline: 'other charities she''d love to support '
   content: "<ul><li><p>Brain &amp; Behavior Research Foundation</p></li><li><p>National
     Alliance on Mental Illness</p></li><li><p>100% HUMAN</p></li></ul>"
 - template: detail-content
