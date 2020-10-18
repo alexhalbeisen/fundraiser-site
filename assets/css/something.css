@@ -82,7 +82,7 @@ p {
 }
 .button.primary {
     background-color: #d3d3d3;
-    color: #d3d3d3;
+    color: #000;
 }
 .button.primary.inverted {
     background-color: #fff;
