@@ -81,8 +81,8 @@ p {
     opacity: 0.8;
 }
 .button.primary {
-    background-color: #fff;
-    color: #fff;
+    background-color: #d3d3d3;
+    color: #d3d3d3;
 }
 .button.primary.inverted {
     background-color: #fff;
