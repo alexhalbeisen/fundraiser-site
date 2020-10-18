@@ -10,9 +10,9 @@ page_sections:
   content: for mental health awareness, suicide prevention, tierica.<br><br>december
     5th, weather permitting<br><br>more info below
   cta:
-    enabled: false
+    enabled: true
     url: https://afsp.donordrive.com/
-    button_text: Donate Here
+    button_text: donate here
   image:
     image: ''
     alt_text: ''
