@@ -38,16 +38,17 @@ page_sections:
     I have been faced with a personal challenge of honoring her in a way she would
     be proud of. So, this step is to set forth the first year of the 'love yourself'
     fundraiser. <br><br>The goal is to raise awareness of mental health and suicide
-    prevention in her honor. A memorial has been created with the American Foundation
-    for Suicide Prevention in her name. Any amount helps in this cause. Together,
-    these small gestures can make a difference in creating a better world. The link
-    to donate is above.<br><br>The day of, there will be a 5K walk from Shedd Park
-    to Downtown Lowell. During these times, it is important we social distance. Also,
-    this event depends on weather conditions which will be followed closely prior
-    to the date. Even if you feel like you are unable to participate, a donation or
-    educating yourself (and others) on these issues is equally a step in the right
-    direction. <br><br>This is what she would want for the world; continue to help
-    those who are struggling. Remember to love yourself and others around you.
+    prevention in her honor. A memorial has been created with the <strong>American
+    Foundation for Suicide Prevention</strong> in her name. Any amount helps in this
+    cause. Together, these small gestures can make a difference in creating a better
+    world. The link to donate is above.<br><br>The day of, there will be a 5K walk
+    from Shedd Park to Downtown Lowell. During these times, it is important we social
+    distance. Also, this event depends on weather conditions which will be followed
+    closely prior to the date. Even if you feel like you are unable to participate,
+    a donation or educating yourself (and others) on these issues is equally a step
+    in the right direction. <br><br>This is what she would want for the world; continue
+    to help those who are struggling. Remember to love yourself and others around
+    you.
   media:
     image: "/uploads/2020/10/16/pic8.jpg"
     alt_text: ''
