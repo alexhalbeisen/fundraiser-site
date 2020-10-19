@@ -82,7 +82,8 @@ page_sections:
   headline: "<strong>clothing</strong>"
   content: I will be working on the design and ordering of t-shirts where all profits
     will go to the fundraiser goal. Please reach out to me if you are interested as
-    well as your shirt size!
+    well as your shirt size!<br><br><a href="https://forms.gle/xEXWsF4TvaoCtwPDA"
+    title="google forms">t-shirt form</a>
   media:
     image: "/uploads/2020/10/18/a_89291_mt-6-2.jpg"
     alt_text: ''
