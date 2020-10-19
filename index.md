@@ -77,9 +77,16 @@ page_sections:
   slug: ''
 - template: detail-content
   block: text-1
-  headline: 'other charities she''d love to support '
-  content: "<ul><li><p>Brain &amp; Behavior Research Foundation</p></li><li><p>National
-    Alliance on Mental Illness</p></li><li><p>100% HUMAN</p></li></ul>"
+  headline: 'other charities '
+  content: <p>Although the fundraiser goal is towards the American Foundation for
+    Suicide Prevention, here are some other organizations she would've loved to support.</p><ul><li><p><a
+    href="https://twloha.com/" title="To Write Love on Her Arms">To Write Love on
+    Her Arms</a></p></li><li><p><a href="https://www.bbrfoundation.org/" title="Brain
+    &amp; Behavior Research Foundation">Brain &amp; Behavior Research Foundation</a></p></li><li><p><a
+    href="https://www.thetrevorproject.org" title="The Trevor Project">The Trevor
+    Project</a></p></li><li><p><a href="www.nami.org" title="National Alliance on
+    Mental Illness">National Alliance on Mental Illness</a></p></li><li><p><a href="www.100percenthuman.org"
+    title="100% HUMAN">100% HUMAN</a></p></li></ul>
 - template: detail-content
   block: text-1
   headline: resources
