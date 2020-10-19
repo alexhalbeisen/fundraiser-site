@@ -57,7 +57,7 @@ page_sections:
   headline: "<strong>info</strong>"
   content: 'note: these details are not yet finalized <br><br>when: december 5th<br><br>time:
     9AM<br><br>where: shedd park @ the field house : 453 Rogers St, Lowell, MA 01852<br><br>where
-    to: downtown lowell and back<br><br>what to wear: something warm! <br><br>what
+    to: downtown lowell and back<br><br>what to wear: something warm :)<br><br>what
     to bring: your mask and a sign supporting the cause! (that''s optional)'
   slug: info
   media:
