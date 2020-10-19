@@ -79,7 +79,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: clothing
+  headline: "<strong>clothing</strong>"
   content: I will be working on the design and ordering of t-shirts where all profits
     will go to the charity. Please reach out to me if you are interested as well as
     your shirt size!
