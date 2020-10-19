@@ -55,11 +55,11 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: "<strong>info</strong>"
-  content: 'note: these details are not yet finalized <br><br>when: saturday, december
-    5th<br><br>time: 9AM<br><br>where: shedd park @ the field house : 453 Rogers St,
-    Lowell, MA 01852<br><br>where to: downtown lowell and back<br><br>what to wear:
-    something warm!<br><br>what to bring: your mask, a sign supporting the cause (that''s
-    optional)'
+  content: "*note: these details are not yet finalized and updates will be posted
+    here as well as across socials.<br><br>when: saturday, december 5th<br><br>time:
+    9AM<br><br>where: shedd park @ the field house : 453 Rogers St, Lowell, MA 01852<br><br>where
+    to: downtown lowell and back<br><br>what to wear: something warm!<br><br>what
+    to bring: your mask, a sign supporting the cause (that's optional)"
   slug: info
   media:
     image: "/uploads/2020/10/17/screen-shot-2020-10-17-at-12-02-39-am.png"
