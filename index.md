@@ -83,9 +83,7 @@ page_sections:
   content: I will be working on the design and ordering of t-shirts where all profits
     will go to the fundraiser goal. Please fill out the Google form if you are interested
     so I can get an estimate of demand:<br><br><a href="https://forms.gle/xEXWsF4TvaoCtwPDA"
-    title="google forms">t-shirt form</a><br><br>&lt;iframe src="<a href="https://docs.google.com/forms/d/e/1FAIpQLScfyyJNpuf2tTnR2UI95CDOESYzOx7w0THSfXBQexFWoIxG0Q/viewform?embedded=true"
-    title="https://docs.google.com/forms/d/e/1FAIpQLScfyyJNpuf2tTnR2UI95CDOESYzOx7w0THSfXBQexFWoIxG0Q/viewform?embedded=true">https://docs.google.com/forms/d/e/1FAIpQLScfyyJNpuf2tTnR2UI95CDOESYzOx7w0THSfXBQexFWoIxG0Q/viewform?embedded=true</a>"
-    width="640" height="1318" frameborder="0" marginheight="0" marginwidth="0"&gt;Loading…&lt;/iframe&gt;
+    title="google forms">t-shirt form</a><br>
   media:
     image: "/uploads/2020/10/18/a_89291_mt-6-2.jpg"
     alt_text: ''
