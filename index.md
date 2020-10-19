@@ -66,6 +66,18 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
+  media_alignment: Right
+  headline: "<strong>safety </strong>"
+  content: 'As COVID19 is obviously a concern for large gatherings, we ideally want
+    to make sure it''s possible for close friends and family to participate. But for
+    those who do not live close by and want to join, we will be organizing a virtual
+    5K as well. '
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
+- template: content-feature
+  block: feature-1
   media_alignment: Left
   headline: clothing
   content: I will be working on the design and ordering of t-shirts where all profits
