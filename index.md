@@ -96,6 +96,10 @@ page_sections:
     target="_blank">https://www.psychologytoday.com/us</a></p></blockquote>'
 - template: detail-content
   block: text-1
+  headline: educational topics
+  content: "<p>todo</p>"
+- template: detail-content
+  block: text-1
   headline: contact
   content: "<p>For more information or you'd like to help out, contact me:</p><p></p><blockquote><p>text:
     (978)995-6393</p><p>email: alex.halbeisen@gmail.com</p></blockquote>"
