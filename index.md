@@ -20,8 +20,8 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   slug: ''
-  headline: "'love yourself'"
-  content: <strong>...<br><br></strong><a href="https://afsp.donordrive.com/campaign/love-yourself"
+  headline: "..."
+  content: <strong><br></strong><a href="https://afsp.donordrive.com/campaign/love-yourself"
     title="https://afsp.donordrive.com/campaign/love-yourself">https://afsp.donordrive.com/campaign/love-yourself</a>
 - template: content-feature
   block: feature-1
