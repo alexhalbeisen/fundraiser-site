@@ -1,0 +1,15 @@
+---
+title: loveyourself
+author: Alexander Halbeisen
+email: alex.halbeisen@gmail.com
+description: For my loved one.
+baseurl: "/"
+url: loveryourself.fund
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: default
+plugins:
+- jekyll-feed
+- jekyll-menus
