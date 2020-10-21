@@ -79,11 +79,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>clothing</strong>"
+  headline: "<strong>sign-up</strong>"
   content: I will be working on the design and ordering of t-shirts where all profits
     will go to the fundraiser goal. Please fill out the Google form if you are interested
     so I can get an estimate of demand:<br><br><a href="https://forms.gle/xEXWsF4TvaoCtwPDA"
-    title="google forms">t-shirt form</a><br>
+    title="google forms">t-shirt and sign up form</a><br>
   media:
     image: "/uploads/2020/10/18/a_89291_mt-6-2.jpg"
     alt_text: ''
