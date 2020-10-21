@@ -3,6 +3,13 @@ layout: blocks
 title: hello
 date: 
 page_sections:
+- template: navigation-header-w-button
+  block: header-2
+  logo: "/uploads/2020/10/18/a_89291_mt-6.png"
+  cta:
+    url: https://forms.gle/ZqzqxjkyuVXJZPzC6
+    button_text: sign up
+  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   slug: features
