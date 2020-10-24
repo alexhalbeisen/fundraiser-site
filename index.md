@@ -124,6 +124,15 @@ page_sections:
   headline: contact
   content: "<p>For more information or you'd like to help out, feel free to contact
     me:</p><blockquote><p>email: alex.halbeisen@gmail.com</p></blockquote>"
+- template: detail-content
+  block: text-1
+  headline: todo
+  content: "<ul><li><p>obtain approval from City of Lowell</p></li><li><p>obtain more
+    resources related to mental health, suicide, and addiction</p></li><li><p>provide
+    more educational information to spread awareness</p></li><li><p>decide t-shirt
+    - design, color, online store or order from a print shop</p></li><li><p>create
+    a plan B for walk i.e. virtual only</p></li><li><p>find sponsors (maybe, add as
+    goal for next year?)</p></li></ul>"
 - template: simple-footer
   block: footer-1
   content: organized by alex halbeisen ❤️
