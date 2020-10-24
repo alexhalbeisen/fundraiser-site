@@ -75,10 +75,10 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: "<strong>safety </strong>"
-  content: 'As COVID19 is obviously a concern for large gatherings, we ideally want
-    to make sure it''s possible for close friends and family to participate. But for
-    those who do not live close by and want to join, we will be organizing a virtual
-    5K as well. '
+  content: As COVID19 is obviously a concern for large gatherings, we want to make
+    sure we carry out the walk in a safe manner. Approval from the City of Lowell
+    is still needed. For those who are not local and want to join, we will be organizing
+    a virtual 5K as well. This also may be the only option if not allowed.
   slug: ''
   media:
     image: ''
