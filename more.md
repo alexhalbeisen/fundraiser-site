@@ -10,6 +10,8 @@ page_sections:
     button_text: sign up
   logo: ''
   navigation:
+  - link: https://loveyourself.fund/
+    link_text: Home
   - link: https://loveyourself.fund/resources
     link_text: Resources
 - template: simple-footer
