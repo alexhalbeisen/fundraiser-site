@@ -10,7 +10,7 @@ page_sections:
     url: https://forms.gle/ZqzqxjkyuVXJZPzC6
     button_text: sign up
   navigation:
-  - link: "/"
+  - link: https://loveyourself.fund/
     link_text: Home
   - link: "/resources"
     link_text: Resources
