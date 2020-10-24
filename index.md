@@ -12,7 +12,7 @@ page_sections:
   navigation:
   - link: https://loveyourself.fund/
     link_text: Home
-  - link: "/resources"
+  - link: https://loveyourself.fund/resources
     link_text: Resources
 - template: hero-banner-w-image
   block: hero-2
