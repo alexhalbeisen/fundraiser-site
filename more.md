@@ -10,12 +10,12 @@ page_sections:
     button_text: sign up
   logo: ''
   navigation:
-  - link: https://loveyourself.fund/more
-    link_text: More
   - link: https://loveyourself.fund/
     link_text: Home
   - link: https://loveyourself.fund/resources
     link_text: Resources
+  - link: https://loveyourself.fund/more
+    link_text: More
 - template: simple-footer
   block: footer-1
   content: organized by alex halbeisen ❤️
