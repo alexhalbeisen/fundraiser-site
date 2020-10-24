@@ -9,7 +9,9 @@ page_sections:
     url: https://forms.gle/rcquYJWDQuhKCWGe6
     button_text: sign up
   logo: ''
-  navigation: []
+  navigation:
+  - link: https://loveyourself.fund/resources
+    link_text: Resources
 - template: simple-footer
   block: footer-1
   content: organized by alex halbeisen ❤️
