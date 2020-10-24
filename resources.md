@@ -1,11 +1,10 @@
 ---
 layout: blocks
-title: resources
+title: Resources
 date: 
 page_sections: []
 menu:
   main:
     weight: 2
-    title: Resources
 
 ---
