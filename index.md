@@ -134,7 +134,7 @@ page_sections:
     a plan B for walk i.e. virtual only</p></li><li><p>find sponsors (maybe, add as
     goal for next year?)</p></li><li><p>translation page</p></li><li><p>expand site
     to break up content </p></li><li><p>edit home theme</p></li><li><p>finalize logo
-    </p></li></ul>"
+    </p></li><li><p>adjust readability, font weight, spacing</p></li></ul>"
 - template: simple-footer
   block: footer-1
   content: organized by alex halbeisen ❤️
