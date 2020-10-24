@@ -10,12 +10,12 @@ page_sections:
     url: https://forms.gle/ZqzqxjkyuVXJZPzC6
     button_text: sign up
   navigation:
-  - link: https://loveyourself.fund/more
-    link_text: More
   - link: https://loveyourself.fund/
     link_text: Home
   - link: https://loveyourself.fund/resources
     link_text: Resources
+  - link: https://loveyourself.fund/more
+    link_text: More
 - template: hero-banner-w-image
   block: hero-2
   slug: features
