@@ -12,6 +12,6 @@ page_sections:
     button_text: ''
 - template: simple-footer
   block: footer-1
-  content: ''
+  content: organized by alex halbeisen ❤️
 
 ---
