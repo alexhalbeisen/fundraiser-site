@@ -43,8 +43,8 @@ page_sections:
     was an advocate for being kind towards yourself. Even if you were having a challenging
     day, she'd encourage you to take it one step at a time. Make those tiny strides
     in life to succeed, those movements will get you there in the end.<br><br>Recently,
-    I have been faced with a personal challenge of honoring her in a way she would
-    be proud of. So, this step is to set forth the first year of the 'love yourself'
+    I've been faced with a personal challenge of honoring her in a way she would be
+    proud of. So, this step is to set forth the first year of the 'love yourself'
     fundraiser. <br><br>The goal is to raise awareness of mental health and suicide
     prevention in her honor. A memorial has been created with the <strong>American
     Foundation for Suicide Prevention</strong> in her name. Any amount helps in this
