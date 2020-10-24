@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/10/24/logo.png"
   navigation:
+  - link: home
+    link_text: ''
   - link: resources
     link_text: ''
   cta:
