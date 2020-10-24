@@ -9,11 +9,7 @@ page_sections:
   cta:
     url: https://forms.gle/ZqzqxjkyuVXJZPzC6
     button_text: sign up
-  navigation:
-  - link: home
-    link_text: ''
-  - link: resources
-    link_text: ''
+  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   slug: features
