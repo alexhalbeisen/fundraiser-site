@@ -14,8 +14,8 @@ page_sections:
   - link: https://loveyourself.fund/more
     link_text: More
   cta:
-    url: ''
-    button_text: ''
+    url: https://forms.gle/rcquYJWDQuhKCWGe6
+    button_text: sign up
 - template: simple-footer
   block: footer-1
   content: organized by alex halbeisen ❤️
