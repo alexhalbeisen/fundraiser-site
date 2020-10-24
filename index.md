@@ -44,23 +44,26 @@ page_sections:
   content: December 5th would have been her 26th birthday. She never cared for material
     or extravagant gestures. It was always the little and meaningful things she appreciated
     the most. If something supported a greater good, like better for our planet and
-    its inhabitants, she'd rather money go there instead. <br><br>It's these small
-    contributions that she believed would make a bigger difference. Likewise, she
-    was an advocate for being kind towards yourself. Even if you were having a challenging
-    day, she'd encourage you to take it one step at a time. Make those tiny strides
-    in life to succeed, those movements will get you there in the end.<br><br>Recently,
-    I've been faced with a personal challenge of honoring her in a way she would be
-    proud of. So, this step is to set forth the first year of the 'love yourself'
-    fundraiser. <br><br>The goal is to raise awareness of mental health and suicide
-    prevention in her honor. A memorial has been created with the <strong>American
-    Foundation for Suicide Prevention</strong> in her name. Any amount helps in this
-    cause. The link to donate is above.<br><br>The day of, there will be a 5K walk
-    from Shedd Park to Downtown Lowell. During these times, it is important we social
-    distance. Also, this event depends on weather conditions which will be followed
-    closely prior to the date. Even if you feel like you are unable to participate,
-    a donation or educating yourself (and others) on these issues is equally a step
-    in the right direction. <br><br>This is what she would want for the world; continue
-    to help those who are struggling. Love yourself and others around you.
+    its inhabitants, she'd rather money go there instead. It's these small contributions
+    that had the biggest impact and would make a difference. <br><br>She was an advocate
+    for being kind towards yourself. Even if you were having a challenging day, she'd
+    encourage you to take it one step at a time. Continue to make those tiny strides
+    to accomplish a reachable goal. Overall, these movements together would get you
+    to where you wanted in the end.<br><br>I've been faced with this personal challenge
+    of honoring her in a way she would be proud of. Unsure where to start, I'll start
+    somewhere so long as I keep moving. The first step is to set forth the first year
+    of the 'love yourself' fundraiser. <br><br>The goal is to raise awareness of mental
+    health and suicide prevention. To provide resources to those struggling, or anyone
+    who can lead knowledge to those in need. A memorial has been created with the
+    <strong>American Foundation for Suicide Prevention</strong> in her name. Any amount
+    helps in this cause. <br><br>The day of, there will be a 5K walk from Shedd Park
+    to Downtown Lowell. During these times, it is important we social distance so
+    we will be paying attention to local rules regarding COVID19. Also, this event
+    depends on weather conditions which will be followed closely prior to the date.
+    Even if you feel like you are unable to participate, a donation or educating yourself
+    (and others) on these issues is equally a step in the right direction. <br><br>This
+    is what she would want for the world; continue to help those who are struggling.
+    Love yourself and others around you.
   media:
     image: "/uploads/2020/10/16/pic8.jpg"
     alt_text: ''
