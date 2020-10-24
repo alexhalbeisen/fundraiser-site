@@ -10,6 +10,8 @@ page_sections:
     url: https://forms.gle/ZqzqxjkyuVXJZPzC6
     button_text: sign up
   navigation:
+  - link: home
+    link_text: ''
   - link: resources
     link_text: ''
 - template: hero-banner-w-image
