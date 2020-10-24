@@ -103,10 +103,6 @@ page_sections:
   slug: ''
 - template: detail-content
   block: text-1
-  headline: educational topics
-  content: "<p>// work in progress</p>"
-- template: detail-content
-  block: text-1
   headline: todo
   content: "<ul><li><p>obtain approval from City of Lowell</p></li><li><p>obtain more
     resources related to mental health, suicide, and addiction</p></li><li><p>provide
