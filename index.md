@@ -23,7 +23,7 @@ page_sections:
   image:
     image: "/uploads/2020/10/23/a-89291-mt-5.jpg"
     alt_text: ''
-  background_image: "/uploads/2020/10/24/darktheme.jpg"
+  background_image: "/uploads/2020/10/16/thomas-heintz-0tgmnmiyq9y-unsplash.jpg"
 - template: 1-column-text
   block: one-column-1
   slug: ''
