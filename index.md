@@ -103,18 +103,6 @@ page_sections:
   slug: ''
 - template: detail-content
   block: text-1
-  headline: 'other charities '
-  content: <p>Although the fundraiser goal is towards the American Foundation for
-    Suicide Prevention, here are some other organizations she would've loved to support.</p><ul><li><p><a
-    href="https://twloha.com/" title="To Write Love on Her Arms">To Write Love on
-    Her Arms</a></p></li><li><p><a href="https://www.bbrfoundation.org/" title="Brain
-    &amp; Behavior Research Foundation">Brain &amp; Behavior Research Foundation</a></p></li><li><p><a
-    href="https://www.thetrevorproject.org" title="The Trevor Project">The Trevor
-    Project</a></p></li><li><p><a href="https://www.nami.org/Home" title="National
-    Alliance on Mental Illness">National Alliance on Mental Illness</a></p></li><li><p><a
-    href="http://www.100percenthuman.org/" title="100% HUMAN">100% HUMAN</a></p></li></ul>
-- template: detail-content
-  block: text-1
   headline: resources
   content: '<p>// work in progress</p><p>suicide hotline number: 800-273-8255 (24/7)</p><p>ways
     to find therapy:</p><p></p><blockquote><p><a href="https://zencare.co/" title="Zencare">Zencare</a></p><p><a
@@ -125,11 +113,6 @@ page_sections:
   block: text-1
   headline: educational topics
   content: "<p>// work in progress</p>"
-- template: detail-content
-  block: text-1
-  headline: contact
-  content: "<p>For more information or you'd like to help out, feel free to contact
-    me:</p><blockquote><p>email: alex.halbeisen@gmail.com</p></blockquote>"
 - template: detail-content
   block: text-1
   headline: todo
