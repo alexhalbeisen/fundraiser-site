@@ -28,6 +28,11 @@ page_sections:
     Project</a></p></li><li><p><a href="https://www.nami.org/Home" title="National
     Alliance on Mental Illness">National Alliance on Mental Illness</a></p></li><li><p><a
     href="http://www.100percenthuman.org/" title="100% HUMAN">100% HUMAN</a></p></li></ul>
+- template: detail-content
+  block: text-1
+  content: "<p>For more information or you'd like to help out, feel free to reach
+    out!</p><blockquote><p>email: alex.halbeisen@gmail.com</p></blockquote>"
+  headline: contact me
 - template: simple-footer
   block: footer-1
   content: organized by alex halbeisen ❤️
