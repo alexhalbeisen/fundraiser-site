@@ -7,12 +7,12 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/10/24/screen-shot-2020-10-24-at-12-56-32-am.png"
   navigation:
-  - link: https://loveyourself.fund/more
-    link_text: More
-  - link: https://loveyourself.fund/resources
-    link_text: Resources
   - link: https://loveyourself.fund/
     link_text: Home
+  - link: https://loveyourself.fund/resources
+    link_text: Resources
+  - link: https://loveyourself.fund/more
+    link_text: More
   cta:
     url: ''
     button_text: ''
