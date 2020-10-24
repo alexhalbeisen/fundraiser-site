@@ -122,8 +122,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: contact
-  content: "<p>For more information or you'd like to help out, contact me:</p><blockquote><p>email:
-    alex.halbeisen@gmail.com</p></blockquote>"
+  content: "<p>For more information or you'd like to help out, feel free to contact
+    me:</p><blockquote><p>email: alex.halbeisen@gmail.com</p></blockquote>"
 - template: simple-footer
   block: footer-1
   content: organized by alex halbeisen ❤️
