@@ -118,7 +118,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: educational topics
-  content: "<p>todo</p>"
+  content: "<p>// work in progress</p>"
 - template: detail-content
   block: text-1
   headline: contact
