@@ -16,6 +16,14 @@ page_sections:
   cta:
     url: https://forms.gle/rcquYJWDQuhKCWGe6
     button_text: sign up
+- template: 1-column-text
+  block: one-column-1
+  headline: help
+  content: You are not alone, there are resources out there to help you in this fight.
+    Every step you take is progress.  <br><br>Even if you aren't struggling, you might
+    know someone out there who is. Letting others know your door is open could mean
+    the most to someone in need.
+  slug: ''
 - template: detail-content
   block: text-1
   content: '<p>// work in progress</p><p>suicide hotline number: 800-273-8255 (24/7)</p><p>ways
