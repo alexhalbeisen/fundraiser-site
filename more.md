@@ -16,6 +16,16 @@ page_sections:
     link_text: Resources
   - link: https://loveyourself.fund/more
     link_text: More
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: who
+  content: Hello, I'm Alex, organizer of 'love yourself.' I was lucky to have known
+    Tierica. My best friend, she is the reason for these efforts.
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: detail-content
   block: text-1
   headline: other charities she'd love to support
