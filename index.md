@@ -65,26 +65,10 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: "<strong>info</strong>"
-  content: "*note: these details are not yet finalized and updates will be posted
-    here as well as across socials.<br><br>when: saturday, december 5th<br><br>time:
-    9AM<br><br>where: shedd park @ the field house : 453 Rogers St, Lowell, MA 01852<br><br>where
-    to: downtown lowell and back<br><br>what to wear: something warm!<br><br>what
-    to bring: your mask, a sign supporting the cause (that's optional)"
+  content: "// placeholder for virtual 5K information"
   slug: info
   media:
     image: "/uploads/2020/10/17/screen-shot-2020-10-17-at-12-02-39-am.png"
-    alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: "<strong>safety </strong>"
-  content: As COVID19 is obviously a concern for large gatherings, we want to make
-    sure we carry out the walk in a safe manner. Approval from the City of Lowell
-    is still needed. For those who are not local and want to join, we will be organizing
-    a virtual 5K as well. This also may be the only option if not allowed.
-  slug: ''
-  media:
-    image: ''
     alt_text: ''
 - template: content-feature
   block: feature-1
