@@ -101,14 +101,10 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: todo
-  content: "<ul><li><p>obtain approval from City of Lowell</p></li><li><p>obtain more
-    resources related to mental health, suicide, and addiction</p></li><li><p>provide
-    more educational information to spread awareness</p></li><li><p>decide t-shirt
-    - design, color, online store or order from a print shop</p></li><li><p>create
-    a plan B for walk i.e. virtual only</p></li><li><p>find sponsors (maybe, add as
-    goal for next year?)</p></li><li><p>translation page</p></li><li><p>expand site
-    to break up content </p></li><li><p>edit home theme</p></li><li><p>finalize logo
-    </p></li><li><p>adjust readability, font weight, spacing</p></li></ul>"
+  content: "<p></p><ul><li><p>obtain more resources related to mental health, suicide,
+    and addiction</p></li><li><p>provide more educational information towards spreading
+    awareness</p></li><li><p>decide t-shirt - design, color, online store or order
+    from a print shop</p></li><li><p>setup virtual 5K </p></li></ul>"
 - template: simple-footer
   block: footer-1
   content: organized by alex halbeisen ❤️
