@@ -19,9 +19,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: love yourself<br><strong>fundraiser walk</strong>
-  content: for mental health awareness, suicide prevention, tierica.<br><br>saturday
-    december 5th, weather permitting<br><br><em>more info below</em>
+  headline: love yourself<br><strong>awareness</strong> <strong>fundraiser </strong>
+  content: virtual 5K walk <br><br>for mental health awareness, suicide prevention,
+    tierica.<br>
   cta:
     enabled: true
     url: https://afsp.donordrive.com/campaign/love-yourself
