@@ -35,6 +35,11 @@ page_sections:
   block: text-1
   headline: Resources
   content: "<p></p>"
+- template: detail-content
+  block: text-1
+  headline: Hotlines
+  content: <p><a href="tel:1-800-273-8255"><strong>1-800-273-8255</strong></a><strong>
+    available 24/7</strong></p><p><strong>Text "HOME" to 741741</strong></p>
 - template: simple-footer
   block: footer-1
   content: organized by alex halbeisen ❤️
