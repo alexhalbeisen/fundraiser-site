@@ -20,8 +20,9 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: who
-  content: Hello, I'm Alex, organizer of 'love yourself.' I was lucky to have known
-    Tierica. My best friend, she is the reason for these efforts.
+  content: 'Hello, my name is Alex and I was lucky enough to have known Tierica. My
+    best friend and the strongest, most selfless person in my life, she is the reason
+    for all of this. '
   slug: ''
   media:
     image: ''
