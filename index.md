@@ -63,8 +63,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>info</strong>"
-  content: "// placeholder for virtual 5K information"
+  headline: "<strong>Event Details</strong>"
+  content: 'Due to COVID cases rising, this event will be entirely virtual. '
   slug: info
   media:
     image: "/uploads/2020/10/17/screen-shot-2020-10-17-at-12-02-39-am.png"
