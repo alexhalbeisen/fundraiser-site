@@ -39,7 +39,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: about
-  headline: "<strong>In Honor of Tierica Pang</strong>"
+  headline: "<strong>For Tierica Pang</strong>"
   content: December 5th would have been her 26th birthday. She never cared for material
     or extravagant gestures. It was always the little and meaningful things she appreciated
     the most. If something supported a greater good, like better for our planet and
