@@ -40,8 +40,8 @@ page_sections:
     href="http://www.100percenthuman.org/" title="100% HUMAN">100% HUMAN</a></p></li></ul>
 - template: detail-content
   block: text-1
-  content: "<p>For more information or you'd like to help out, feel free to reach
-    out!</p><blockquote><p>email: alex.halbeisen@gmail.com</p></blockquote>"
+  content: "<p>For any reason, you want to know more about the fundraiser or simply
+    want to talk to someone, please reach out to me:</p><blockquote><p>email: alex.halbeisen@gmail.com</p></blockquote>"
   headline: contact me
 - template: simple-footer
   block: footer-1
