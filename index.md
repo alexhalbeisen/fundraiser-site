@@ -33,8 +33,8 @@ page_sections:
   block: one-column-1
   slug: ''
   headline: "..."
-  content: // this page is still not complete, expect continuous updates<strong><br><br></strong><a
-    href="https://afsp.donordrive.com/campaign/love-yourself" title="https://afsp.donordrive.com/campaign/love-yourself">https://afsp.donordrive.com/campaign/love-yourself</a>
+  content: <strong><br></strong><a href="https://afsp.donordrive.com/campaign/love-yourself"
+    title="https://afsp.donordrive.com/campaign/love-yourself">https://afsp.donordrive.com/campaign/love-yourself</a>
 - template: content-feature
   block: feature-1
   media_alignment: Left
