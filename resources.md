@@ -18,7 +18,7 @@ page_sections:
     button_text: sign up
 - template: 1-column-text
   block: one-column-1
-  headline: help
+  headline: 800-273-8255
   content: You are not alone, there are resources out there to help you in this fight.
     Every step you take is progress.  <br><br>Even if you aren't struggling, you might
     know someone out there who is. Letting others know your door is open could mean
