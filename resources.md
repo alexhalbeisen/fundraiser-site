@@ -33,8 +33,8 @@ page_sections:
   headline: Finding Therapy
 - template: detail-content
   block: text-1
-  headline: educational topics
-  content: "<p>// work in progress</p>"
+  headline: Resources
+  content: "<p></p>"
 - template: simple-footer
   block: footer-1
   content: organized by alex halbeisen ❤️
