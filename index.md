@@ -72,7 +72,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Merch</strong>"
+  headline: "<strong>T-Shirts</strong>"
   content: "// placeholder for shirt site<br>"
   media:
     image: "/uploads/2020/10/18/a_89291_mt-6-2.jpg"
