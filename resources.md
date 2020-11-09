@@ -37,9 +37,11 @@ page_sections:
   content: "<p></p>"
 - template: detail-content
   block: text-1
-  headline: Hotlines
-  content: <p><a href="tel:1-800-273-8255"><strong>1-800-273-8255</strong></a><strong>
-    available 24/7</strong></p><p><strong>Text "HOME" to 741741</strong></p>
+  headline: Crisis Hotlines
+  content: <p><strong>Dial </strong><a href="tel:1-800-273-8255"><strong>1-800-273-8255</strong></a><strong>,
+    available 24/7</strong></p><p><strong>Text "HOME" to 741741 to connect with a
+    counselor </strong></p><p>Please call 911 if you know someone in danger of harming
+    themselves*</p>
 - template: simple-footer
   block: footer-1
   content: organized by alex halbeisen ❤️
