@@ -78,13 +78,6 @@ page_sections:
     image: "/uploads/2020/10/18/a_89291_mt-6-2.jpg"
     alt_text: ''
   slug: ''
-- template: detail-content
-  block: text-1
-  headline: todo
-  content: "<p></p><ul><li><p>obtain more resources related to mental health, suicide,
-    and addiction</p></li><li><p>provide more educational information towards spreading
-    awareness</p></li><li><p>decide t-shirt - design, color, online store or order
-    from a print shop</p></li><li><p>setup virtual 5K </p></li></ul>"
 - template: simple-footer
   block: footer-1
   content: organized by alex halbeisen ❤️
