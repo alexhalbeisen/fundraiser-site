@@ -51,9 +51,9 @@ page_sections:
     at once. These movements are what get you to where you want in the end.<br><br>I''ve
     been faced with this personal challenge of honoring her. Unsure where to even
     begin, I have to start somewhere so long as I keep moving. So here is the first
-    step in her honor.<br><br>This is what she would want for the world; continue
-    to help those who are struggling. Love yourself and others around you. This is
-    our gift to her. '
+    step in her honor. This is what she would want for the world; continue to help
+    those who are struggling. Love yourself and others around you. This is our gift
+    to her. '
   media:
     image: "/uploads/2020/10/16/pic8.jpg"
     alt_text: ''
