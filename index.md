@@ -43,20 +43,20 @@ page_sections:
   media_alignment: Left
   slug: about
   headline: "<strong>For Tierica Pang</strong>"
-  content: 'December 5th would have been her 26th birthday. She never cared for material
+  content: December 5th would have been her 26th birthday. She never cared for material
     or extravagant gestures. It was always the little and meaningful things she appreciated
     most. If something supported a greater good, like better for our planet or its
-    inhabitants, she''d rather money go there instead. Collectively, these contributions
-    lead to change and that''s what matters. <br><br>She was an advocate for being
+    inhabitants, she'd rather money go there instead. Collectively, these contributions
+    lead to a change that can make a difference. <br><br>She was an advocate for being
     kind and forgiving towards yourself. Even if you were having a challenging day,
-    she''d encourage you to take it one step at a time. Continue to make those tiny
-    strides and accomplish one small goal at a time. It''s okay to not tackle everything
-    at once. These movements are what get you to where you want in the end.<br><br>I''ve
+    she'd encourage you to take it one step at a time. Continue to make those tiny
+    strides and accomplish one small goal at a time. It's okay to not tackle everything
+    at once. These movements are what get you to where you want in the end.<br><br>I've
     been faced with this personal challenge of honoring her. Unsure where to even
     begin, I have to start somewhere so long as I keep moving. So here is the first
     step in her honor. This is what she would want for the world; continue to help
     those who are struggling. Love yourself and others around you. This is our gift
-    to her. '
+    to her.
   media:
     image: "/uploads/2020/10/16/pic8.jpg"
     alt_text: ''
