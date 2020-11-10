@@ -52,7 +52,10 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Resources
-  content: "<p></p>"
+  content: <ul><li><p><a href="https://save.org/suggested-reading-list/" title="reading
+    list">A curated reading list related to Depression and Other Brain Illnesses,
+    Suicide, and even Grief After Suicide</a> by Suicide Awareness Voices of Education
+    (SAVE)</p></li><li><p></p></li></ul>
 - template: detail-content
   block: text-1
   headline: Crisis Hotlines
