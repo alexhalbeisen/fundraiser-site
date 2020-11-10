@@ -26,9 +26,27 @@ page_sections:
   slug: ''
 - template: detail-content
   block: text-1
-  content: <p></p><p></p><blockquote><p><a href="https://zencare.co/" title="Zencare">Zencare</a></p><p><a
-    href="https://www.psychologytoday.com/us" title="Psychology Today">Psychology
-    Today</a></p><p><a href="https://www.betterhelp.com/helpme/?utm_source=AdWords&amp;utm_medium=Search_PPC_c&amp;utm_term=betterhelp_e&amp;utm_content=25637168530&amp;network=g&amp;placement=&amp;target=&amp;matchtype=e&amp;utm_campaign=177007450&amp;ad_type=text&amp;adposition=&amp;gclid=Cj0KCQjw8rT8BRCbARIsALWiOvSSboRCULcyKzGg0yAnTKr89xuLn-HCkYnLLD4E5XLaMi5sHhQBOxUaAgqKEALw_wcB&amp;not_found=1&amp;gor=helpme"
+  content: <p>Therapy is important even for those who don't struggle with mental health
+    issues. There shouldn't be any stigma against seeing one. But for some, the main
+    obstacle is cost. </p><p>Here are some ways to help:</p><ul><li><p>Reach out or
+    go to your health insurance company to find what therapists are in your network
+    or what services are covered</p></li><li><p>Visit <a href="https://www.211.org/"
+    title="211">211.org</a> or contact SAMHSA’s National Helpline at 800-662-HELP
+    to locate a community mental health center local to you</p></li><li><p>Visit the
+    <a href="https://findahealthcenter.hrsa.gov/" title="HRSA">Health Resources and
+    Service Administration</a> to locate a community health center. These are able
+    to provide free services to those who meet income requirements</p></li><li><p>Look
+    to see if a therapist works based on a sliding scale, which is based on your ability
+    to pay</p></li><li><p>Contact local universities or medical schools to see if
+    they have psychotherapy/psychiatry training clinics that offer discounted sessions</p></li><li><p>If
+    you are a student, see if they provide mental health services</p></li><li><p>If
+    you are employed, many workplaces often have employee assistance programs (EAP)
+    that provide a number of free sessions</p></li></ul><p>Even if you feel therapy
+    is out of reach, it can't hurt to reach out. Many will even offer a free consultation
+    just to see if they're a right fit for you. There are many sites to discover a
+    therapy close to you. Here are some to start with!</p><blockquote><p><a href="https://zencare.co/"
+    title="Zencare">Zencare</a></p><p><a href="https://www.psychologytoday.com/us"
+    title="Psychology Today">Psychology Today</a></p><p><a href="https://www.betterhelp.com/helpme/?utm_source=AdWords&amp;utm_medium=Search_PPC_c&amp;utm_term=betterhelp_e&amp;utm_content=25637168530&amp;network=g&amp;placement=&amp;target=&amp;matchtype=e&amp;utm_campaign=177007450&amp;ad_type=text&amp;adposition=&amp;gclid=Cj0KCQjw8rT8BRCbARIsALWiOvSSboRCULcyKzGg0yAnTKr89xuLn-HCkYnLLD4E5XLaMi5sHhQBOxUaAgqKEALw_wcB&amp;not_found=1&amp;gor=helpme"
     title="betterhelp">betterhelp</a></p></blockquote>
   headline: Finding Therapy
 - template: detail-content
