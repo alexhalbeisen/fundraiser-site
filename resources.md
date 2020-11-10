@@ -58,6 +58,21 @@ page_sections:
     (SAVE)</p></li><li><p></p></li></ul>
 - template: detail-content
   block: text-1
+  headline: Ways to Help Yourself
+  content: "<ul><li><p>Focus on getting through the day, not the rest of your life.
+    Take those small steps.</p></li><li><p>Establish and follow through with a Crisis
+    Plan. A structured and practiced way to handle yourself when going through a really
+    difficult moment. One idea is a Crisis Box that contains items that make you happy
+    or feel comfortable.</p></li><li><p>Be within your safe place, whether it's your
+    bedroom or with friends and family. </p></li><li><p>Surround yourself with others.</p></li><li><p>Distract
+    yourself by doing things to occupy your thoughts.</p></li><li><p>Develop a Wellness
+    Action Plan to make yourself and friends and family aware of your triggers. </p></li><li><p>Exercise
+    or take on relaxing activities such as walking or running. These are key to releasing
+    dopamine and serotonin, hormones that make you feel good.</p></li><li><p>Always
+    reach out to others if you need to talk. You are never alone.</p></li><li><p>Seek
+    professional help in those ways above.</p></li></ul>"
+- template: detail-content
+  block: text-1
   headline: Crisis Hotlines
   content: <p><strong>Dial </strong><a href="tel:1-800-273-8255"><strong>1-800-273-8255</strong></a><strong>,
     available 24/7</strong></p><p><strong>Text "HOME" to 741741 to connect with a
