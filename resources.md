@@ -51,13 +51,6 @@ page_sections:
   headline: Finding Therapy
 - template: detail-content
   block: text-1
-  headline: Resources
-  content: <ul><li><p><a href="https://save.org/suggested-reading-list/" title="reading
-    list">A curated reading list related to Depression and Other Brain Illnesses,
-    Suicide, and even Grief After Suicide</a> by Suicide Awareness Voices of Education
-    (SAVE)</p></li><li><p></p></li></ul>
-- template: detail-content
-  block: text-1
   headline: Ways to Help Yourself
   content: "<ul><li><p>Focus on getting through the day, not the rest of your life.
     Take those small steps.</p></li><li><p>Establish and follow through with a Crisis
@@ -71,6 +64,13 @@ page_sections:
     dopamine and serotonin, hormones that make you feel good.</p></li><li><p>Always
     reach out to others if you need to talk. You are never alone.</p></li><li><p>Seek
     professional help in those ways above.</p></li></ul>"
+- template: detail-content
+  block: text-1
+  headline: Resources
+  content: <ul><li><p><a href="https://save.org/suggested-reading-list/" title="reading
+    list">A curated reading list related to Depression and Other Brain Illnesses,
+    Suicide, and even Grief After Suicide</a> by Suicide Awareness Voices of Education
+    (SAVE)</p></li><li><p></p></li></ul>
 - template: detail-content
   block: text-1
   headline: Crisis Hotlines
