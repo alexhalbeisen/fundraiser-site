@@ -42,7 +42,7 @@ page_sections:
 - template: detail-content
   block: text-1
   content: "<p>For any reason, you want to know more about the fundraiser or simply
-    want to talk to someone, please reach out to me:</p><blockquote><p>email: alex.halbeisen@gmail.com</p></blockquote>"
+    want to talk to someone, please reach out:</p><blockquote><p>alex.halbeisen@gmail.com</p></blockquote>"
   headline: contact me
 - template: simple-footer
   block: footer-1
