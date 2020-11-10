@@ -26,8 +26,7 @@ h3 {
     font-weight: 700;
     letter-spacing: 0;
 }
-h3,
-p {
+h3 {
     font-size: 32px;
     font-size: 2rem;
     line-height: 1.35;
@@ -35,6 +34,11 @@ p {
 p {
     font-weight: 400;
     color: #666;
+}
+p {
+    font-size: 18px;
+    font-size: 1.125rem;
+    line-height: 1.35;
 }
 @media screen and (min-width: 700px) {
     h1 {
