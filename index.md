@@ -31,10 +31,13 @@ page_sections:
   background_image: "/uploads/2020/11/09/n-n-btbjcfuvbxs-unsplash.jpg"
 - template: 1-column-text
   block: one-column-1
+  headline: Mission
+  content: The goal is to raise awareness of mental health and suicide prevention.
+    To provide resources to those struggling, or anyone who can lead knowledge to
+    those in need. A memorial has been created with the <strong>American Foundation
+    for Suicide Prevention</strong> in her name. Any amount helps in this cause.<br><strong><br></strong><a
+    href="https://afsp.donordrive.com/campaign/love-yourself" title="https://afsp.donordrive.com/campaign/love-yourself">https://afsp.donordrive.com/campaign/love-yourself</a>
   slug: ''
-  headline: "..."
-  content: <strong><br></strong><a href="https://afsp.donordrive.com/campaign/love-yourself"
-    title="https://afsp.donordrive.com/campaign/love-yourself">https://afsp.donordrive.com/campaign/love-yourself</a>
 - template: content-feature
   block: feature-1
   media_alignment: Left
