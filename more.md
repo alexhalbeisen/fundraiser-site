@@ -44,8 +44,5 @@ page_sections:
   content: "<p>For any reason, you want to know more about the fundraiser or simply
     want to talk to someone, please reach out:</p><blockquote><p>alex.halbeisen@gmail.com</p></blockquote>"
   headline: contact me
-- template: simple-footer
-  block: footer-1
-  content: organized by alex halbeisen ❤️
 
 ---
