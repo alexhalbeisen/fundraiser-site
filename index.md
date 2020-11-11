@@ -31,12 +31,12 @@ page_sections:
   background_image: "/uploads/2020/11/09/n-n-btbjcfuvbxs-unsplash.jpg"
 - template: 1-column-text
   block: one-column-1
-  headline: Mission
-  content: The goal is to raise awareness of mental health and suicide prevention.
-    To provide resources to those struggling, or anyone who can lead knowledge to
-    those in need.<br><br>Sometimes these are topics we shy away from. But we have
-    to build up our communities around accepting mental health problems as a part
-    of a normal life. There are ways to cope and survive for everyone.
+  headline: mission
+  content: The goal of this fundraiser is to raise awareness of mental health and
+    suicide prevention. To provide resources to those struggling, or anyone who can
+    lead knowledge to those in need.<br><br>Sometimes these are topics we shy away
+    from. But we have to build up our communities around accepting mental health problems
+    as a part of a normal life. There are ways to cope and survive for everyone.
   slug: ''
 - template: content-feature
   block: feature-1
