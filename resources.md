@@ -48,7 +48,7 @@ page_sections:
     href="https://zencare.co/" title="Zencare">Zencare</a></p></li><li><p><a href="https://www.psychologytoday.com/us"
     title="Psychology Today">Psychology Today</a></p></li><li><p><a href="https://www.betterhelp.com/helpme/?utm_source=AdWords&amp;utm_medium=Search_PPC_c&amp;utm_term=betterhelp_e&amp;utm_content=25637168530&amp;network=g&amp;placement=&amp;target=&amp;matchtype=e&amp;utm_campaign=177007450&amp;ad_type=text&amp;adposition=&amp;gclid=Cj0KCQjw8rT8BRCbARIsALWiOvSSboRCULcyKzGg0yAnTKr89xuLn-HCkYnLLD4E5XLaMi5sHhQBOxUaAgqKEALw_wcB&amp;not_found=1&amp;gor=helpme"
     title="betterhelp">betterhelp</a></p></li></ul></blockquote>
-  headline: Finding Therapy
+  headline: Finding Help
 - template: detail-content
   block: text-1
   headline: Ways to Help Yourself
