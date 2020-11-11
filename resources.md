@@ -80,9 +80,6 @@ page_sections:
     available 24/7</strong></p><p><strong>Text "HOME" to 741741 to connect with a
     counselor</strong></p><p>(Please call 911 if you know someone in danger of harming
     themselves)</p>
-- template: simple-footer
-  block: footer-1
-  content: organized by alex halbeisen ❤️
 menu:
   main:
     weight: 2
