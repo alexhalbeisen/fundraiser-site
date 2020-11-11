@@ -64,8 +64,8 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: Updates
-  content: Information and updates such as the fundraiser status, event information,
+  headline: Information
+  content: Information such as important updates, fundraiser status, event details,
     and more will be posted below.
   slug: ''
 - template: content-feature
