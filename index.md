@@ -62,6 +62,12 @@ page_sections:
   media:
     image: "/uploads/2020/10/16/pic8.jpg"
     alt_text: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Updates
+  content: Information and updates such as the fundraiser status, event information,
+    and more will be posted below.
+  slug: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
