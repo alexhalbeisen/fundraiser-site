@@ -81,9 +81,10 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: "<strong>Shop</strong>"
-  content: "<strong>11/11</strong><br>An online store for purchasing Love Yourself
-    wear will be added soon. Please check back later for updates. <br><br>(All profits
-    will be donated towards the fundraiser goal)<br>"
+  content: '<strong><span style="text-decoration: underline;">11/11</span></strong><br>An
+    online store for purchasing Love Yourself wear will be added soon. Please check
+    back later for updates. <br><br>(All profits will be donated towards the fundraiser
+    goal)<br>'
   media:
     image: "/uploads/2020/10/18/a_89291_mt-6-2.jpg"
     alt_text: ''
