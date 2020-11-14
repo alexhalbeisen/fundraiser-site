@@ -48,6 +48,6 @@ page_sections:
   headline: contact me
 - template: simple-footer
   block: footer-1
-  content: artwork here by Brianna Nil
+  content: artwork by Brianna Nil
 
 ---
