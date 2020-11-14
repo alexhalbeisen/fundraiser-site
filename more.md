@@ -8,7 +8,7 @@ page_sections:
   cta:
     url: https://forms.gle/rcquYJWDQuhKCWGe6
     button_text: sign up
-  logo: "/uploads/2020/11/14/a-89291-mt-4.jpg"
+  logo: "/uploads/2020/11/14/a-89291-mt-3.jpg"
   navigation:
   - link: https://loveyourself.fund/
     link_text: Home
