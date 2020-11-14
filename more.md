@@ -25,7 +25,7 @@ page_sections:
     for all of this. '
   slug: ''
   media:
-    image: ''
+    image: "/uploads/2020/11/14/image0.png"
     alt_text: ''
 - template: detail-content
   block: text-1
