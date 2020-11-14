@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2020/11/14/a-89291-mt-4.jpg"
+  logo: "/uploads/2020/11/14/a-89291-mt-3.jpg"
   cta:
     url: https://forms.gle/ZqzqxjkyuVXJZPzC6
     button_text: sign up
