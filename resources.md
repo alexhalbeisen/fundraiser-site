@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: ''
+  logo: "/uploads/2020/11/14/a-89291-mt-4.png"
   navigation:
   - link: https://loveyourself.fund/
     link_text: Home
