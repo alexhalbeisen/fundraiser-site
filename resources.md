@@ -19,10 +19,13 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Love Yourself
-  content: You are not alone, there are resources out there to help you in this fight.
-    Every step you take is progress.  <br><br>Even if you aren't struggling, you might
-    know someone out there who is. Letting others know your door is open could mean
-    the most to someone in need.
+  content: Each day, over a hundred people die of suicide, and many more attempt to.
+    There has been an alarming increase in this number in recent years, especially
+    within younger generations. <br><br>For those who are affected by their mental
+    health, you are not alone, there are resources out there to help you in this fight.
+    Every step you take is progress towards happiness. <br><br>Even if you aren't
+    struggling, you might know someone out there who is. Letting others know your
+    door is open could mean the most to someone in need.
   slug: ''
 - template: detail-content
   block: text-1
