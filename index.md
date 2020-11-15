@@ -93,6 +93,6 @@ page_sections:
   slug: ''
 - template: simple-footer
   block: footer-1
-  content: organized by alex halbeisen ❤️
+  content: organized by Alex Halbeisen ❤️
 
 ---
