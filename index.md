@@ -20,7 +20,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: love yourself<br><strong>awareness</strong> <strong>fundraiser </strong>
-  content: virtual 5K walk <br>mental health awareness &amp; suicide prevention<br>
+  content: mental health awareness &amp; suicide prevention<br>virtual 5K <br>
   cta:
     enabled: true
     url: https://afsp.donordrive.com/campaign/love-yourself
