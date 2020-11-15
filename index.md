@@ -73,7 +73,8 @@ page_sections:
   media_alignment: Right
   headline: "<strong>Event Details</strong>"
   content: '<strong><span style="text-decoration: underline;">11/11:</span></strong><br>Due
-    to COVID cases rising, this event will be entirely virtual. '
+    to COVID cases rising, this event will be entirely virtual. I am currently comparing
+    ways that people can upload and share their own 5K walks/runs. '
   slug: info
   media:
     image: "/uploads/2020/10/17/screen-shot-2020-10-17-at-12-02-39-am.png"
