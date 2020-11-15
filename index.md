@@ -72,7 +72,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>Event Details</strong>"
+  headline: "<strong>5K Details</strong>"
   content: '<strong><span style="text-decoration: underline;">11/11:</span></strong><br>Due
     to COVID cases rising, this event will be entirely virtual. I am currently comparing
     ways that people can upload and share their own 5K walks/runs. '
