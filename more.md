@@ -20,11 +20,11 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: who
-  content: 'Hi - my name is Alex. I was lucky enough to have known Tierica. My best
-    friend and the strongest, most selfless person in my life, she is the reason for
-    who I am today. She is the reason for all of this. <br><br>To her family and close
-    friends, I''m happy to have created this fundraiser as a way for us all to see
-    her legacy grow. To strangers, thank you for showing interest in this. '
+  content: Hi - my name is Alex. I was lucky enough to have known Tierica. My best
+    friend and the strongest, most selfless person, she is the reason for all of this.<br><br>To
+    her family and close friends, I'm proud to have created this fundraiser as a way
+    for us all to see her legacy continue to grow. To strangers, thank you for showing
+    interest in this.
   slug: ''
   media:
     image: "/uploads/2020/11/14/image0.png"
