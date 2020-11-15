@@ -34,9 +34,10 @@ page_sections:
   headline: "..."
   content: The goal of this fundraiser is to raise awareness of mental health and
     suicide prevention. To provide resources to those struggling, or anyone who can
-    lead knowledge to those in need.<br><br>Sometimes these are topics we shy away
-    from. But we have to build up our communities around accepting mental health problems
-    as a part of a normal life. There are ways to cope and survive for everyone.
+    lead knowledge to those in need.<br><br>These can be topics that we don't know
+    enough about or even make us uncomfortable. But we have to build up our communities
+    around accepting mental health problems as a normal issue we face in our lives.
+    There are ways of coping and surviving for everyone.
   slug: ''
 - template: content-feature
   block: feature-1
