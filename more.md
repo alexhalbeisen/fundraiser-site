@@ -3,11 +3,8 @@ layout: blocks
 title: More
 date: 
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  cta:
-    url: https://forms.gle/rcquYJWDQuhKCWGe6
-    button_text: sign up
+- template: navigation-header
+  block: header-1
   logo: "/uploads/2020/11/14/a-89291-mt-3.jpg"
   navigation:
   - link: https://loveyourself.fund/
