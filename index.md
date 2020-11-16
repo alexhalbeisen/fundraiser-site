@@ -79,9 +79,9 @@ page_sections:
     to participate.<br><br>For people to track their 5K, they can download the <a
     href="https://www.strava.com/mobile" title="Strava link">Strava app</a>. Create
     an account now to get started. Strava features the ability to map out your route.<br><br>On
-    the weekend of December 5th, get out there and share your activity on Facebook,
-    Instagram, or Twitter with the hashtag <strong>#LoveYourself2020</strong>! <br><br>Please
-    remember to stay safe, warm, and social distance. <br><br><br>'
+    the weekend of <strong>December 5th</strong>, get out there and share your activity
+    on Facebook, Instagram, or Twitter with the hashtag <strong>#LoveYourself2020</strong>!
+    <br><br>Please remember to stay safe, warm, and social distance. <br><br><br>'
   slug: info
   media:
     image: "/uploads/2020/11/16/strava.png"
