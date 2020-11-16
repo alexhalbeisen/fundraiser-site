@@ -21,10 +21,10 @@ page_sections:
     within younger generations. It is never too late to prevent a life lost.<br><br>For
     those who are affected by their mental health whether it be anxiety, depression,
     an eating disorder, PTSD, bipolar disorder or any other brain related illness,
-    you are not alone, there are resources out there to help you in this fight. Every
-    step you take is progress towards happiness. <br><br>Even if you aren't struggling,
-    you might know someone out there who is. Please, take the time to read the content
-    below or share it with someone who could benefit from it.
+    you are not alone. There are resources out there to help you in this fight. Every
+    step you take is progress. <br><br>Even if you aren't struggling, you might know
+    someone out there who is. Please, take the time to read the content below or share
+    it with someone who could benefit from it.
   slug: ''
 - template: detail-content
   block: text-1
