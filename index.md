@@ -74,10 +74,14 @@ page_sections:
   media_alignment: Right
   headline: "<strong>5K Details</strong>"
   content: '<strong><span style="text-decoration: underline;">11/11:</span></strong><br>Due
-    to COVID cases rising, this event will be entirely virtual. I am currently comparing
-    ways that people can upload and share their own 5K walks/runs. By either a trail
+    to COVID cases rising, this event will be entirely virtual. By either a trail
     walk, loop around your neighborhood, or on the treadmill, this will allow anybody
-    to participate. '
+    to participate.<br><br>For people to track their 5K, they can download the <a
+    href="https://www.strava.com/mobile" title="Strava link">Strava app</a>. Create
+    an account now to get started. <br><br>On the weekend of December 5th, get out
+    there and share your activity on Facebook, Instagram, or Twitter with the hashtag
+    #LoveYourself2020! <br><br>Please remember to stay safe, warm, and social distance.
+    <br><br><br>'
   slug: info
   media:
     image: "/uploads/2020/11/16/strava.png"
