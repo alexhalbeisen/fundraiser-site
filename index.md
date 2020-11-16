@@ -7,6 +7,8 @@ page_sections:
   block: header-1
   logo: "/uploads/2020/11/14/a-89291-mt-3.jpg"
   navigation:
+  - link: https://loveyourself.fund/more
+    link_text: More
   - link: https://loveyourself.fund/resources
     link_text: Resources
   - link: https://loveyourself.fund/
