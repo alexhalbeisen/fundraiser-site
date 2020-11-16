@@ -80,7 +80,7 @@ page_sections:
     to participate. '
   slug: info
   media:
-    image: "/uploads/2020/10/17/screen-shot-2020-10-17-at-12-02-39-am.png"
+    image: "/uploads/2020/11/16/strava_icon.jpg"
     alt_text: ''
 - template: content-feature
   block: feature-1
