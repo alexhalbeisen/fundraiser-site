@@ -3,19 +3,14 @@ layout: blocks
 title: Home
 date: 
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
+- template: navigation-header
+  block: header-1
   logo: "/uploads/2020/11/14/a-89291-mt-3.jpg"
-  cta:
-    url: https://forms.gle/ZqzqxjkyuVXJZPzC6
-    button_text: sign up
   navigation:
-  - link: https://loveyourself.fund/
-    link_text: Home
   - link: https://loveyourself.fund/resources
     link_text: Resources
-  - link: https://loveyourself.fund/more
-    link_text: More
+  - link: https://loveyourself.fund/
+    link_text: Home
 - template: hero-banner-w-image
   block: hero-2
   slug: features
