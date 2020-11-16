@@ -54,10 +54,11 @@ page_sections:
     been faced with this personal challenge of honoring her. Unsure where to even
     begin, I have to start somewhere so long as I keep moving. So here is the first
     step in her honor. This is what she would want for the world; continue to help
-    those who are struggling. Love yourself and others around you. This is our gift
-    to her.<br><br>A memorial has been created with the <strong>American Foundation
-    for Suicide Prevention</strong> in her name. Any amount helps in this cause.<br><strong><br></strong><a
-    href="https://afsp.donordrive.com/campaign/love-yourself" title="https://afsp.donordrive.com/campaign/love-yourself">https://afsp.donordrive.com/campaign/love-yourself</a>
+    those who are struggling. Love yourself and others around you. Continue to be.
+    This is our gift to her.<br><br>A memorial has been created with the <strong>American
+    Foundation for Suicide Prevention</strong> in her name. Any amount helps in this
+    cause.<br><strong><br></strong><a href="https://afsp.donordrive.com/campaign/love-yourself"
+    title="https://afsp.donordrive.com/campaign/love-yourself">https://afsp.donordrive.com/campaign/love-yourself</a>
   media:
     image: "/uploads/2020/10/16/pic8.jpg"
     alt_text: ''
