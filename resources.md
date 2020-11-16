@@ -43,11 +43,11 @@ page_sections:
     they have psychotherapy/psychiatry training clinics that offer discounted sessions</p></li><li><p>If
     you are a student, see if they provide mental health services</p></li><li><p>If
     you are employed, many workplaces often have employee assistance programs (EAP)
-    that provide a number of free sessions</p></li></ul></blockquote><p></p><p>Even
-    if you feel therapy is out of reach, it can't hurt to reach out. Many will even
-    offer a free consultation just to see if they're a right fit for you. There are
-    many sites to discover a therapy close to you. Here are some places to start looking!</p><p></p><blockquote><ul><li><p><a
-    href="https://zencare.co/" title="Zencare">Zencare</a></p></li><li><p><a href="https://www.psychologytoday.com/us"
+    that provide a number of free sessions</p></li></ul></blockquote><p></p><p>Many
+    will even offer a free consultations, no commitment to see if they're a right
+    fit for you. There are many sites to discover a therapy close to you. Here are
+    some places to start looking!</p><p></p><blockquote><ul><li><p><a href="https://zencare.co/"
+    title="Zencare">Zencare</a></p></li><li><p><a href="https://www.psychologytoday.com/us"
     title="Psychology Today">Psychology Today</a></p></li><li><p><a href="https://www.betterhelp.com/helpme/?utm_source=AdWords&amp;utm_medium=Search_PPC_c&amp;utm_term=betterhelp_e&amp;utm_content=25637168530&amp;network=g&amp;placement=&amp;target=&amp;matchtype=e&amp;utm_campaign=177007450&amp;ad_type=text&amp;adposition=&amp;gclid=Cj0KCQjw8rT8BRCbARIsALWiOvSSboRCULcyKzGg0yAnTKr89xuLn-HCkYnLLD4E5XLaMi5sHhQBOxUaAgqKEALw_wcB&amp;not_found=1&amp;gor=helpme"
     title="betterhelp">betterhelp</a></p></li></ul></blockquote>
   headline: Finding Help
