@@ -48,6 +48,8 @@ page_sections:
   headline: contact me
 - template: simple-footer
   block: footer-1
-  content: artwork by Brianna Nil
+  content: 'artwork by <a href="https://www.instagram.com/warmhalos/" title="Bri''s
+    insta">Brianna Nil</a> : <a href="https://brandyklork.wixsite.com/briannanil"
+    title="Bri''s site">support</a> a local artist<br>'
 
 ---
