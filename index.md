@@ -91,7 +91,10 @@ page_sections:
   headline: "<strong>Shop</strong>"
   content: '<strong><span style="text-decoration: underline;">11/11:</span></strong><br>An
     online store for purchasing Love Yourself wear will be added soon. Please check
-    back later for updates. <br><br>(All profits will be donated towards the fundraiser)<br>'
+    back later for updates. <br><br>(All profits will be donated towards the fundraiser)<br><br><strong><span
+    style="text-decoration: underline;">11/19:</span></strong><br>Designs are currently
+    being finalized. The shop and overall announcement will go live once these are
+    wrapped up.<br>'
   media:
     image: "/uploads/2020/10/18/a_89291_mt-6-2.jpg"
     alt_text: ''
