@@ -59,7 +59,7 @@ page_sections:
     Foundation for Suicide Prevention</strong> in her name. Any amount helps in this
     cause.<br><strong><br></strong><a href="https://afsp.donordrive.com/campaign/love-yourself"
     title="https://afsp.donordrive.com/campaign/love-yourself">https://afsp.donordrive.com/campaign/love-yourself</a><br><br>Donations
-    will close on the last day of the year :)
+    will close on the last day of the year.
   media:
     image: "/uploads/2020/10/16/pic8.jpg"
     alt_text: ''
