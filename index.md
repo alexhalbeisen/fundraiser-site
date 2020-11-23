@@ -97,7 +97,7 @@ page_sections:
     being finalized. The shop and overall announcement will go live once these are
     wrapped up.<br>'
   media:
-    image: "/uploads/2020/10/18/a_89291_mt-6-2.jpg"
+    image: "/uploads/2020/11/23/a-89291-1.png"
     alt_text: ''
   slug: ''
 - template: simple-footer
