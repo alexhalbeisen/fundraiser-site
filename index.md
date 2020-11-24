@@ -61,7 +61,7 @@ page_sections:
     title="https://afsp.donordrive.com/campaign/love-yourself">https://afsp.donordrive.com/campaign/love-yourself</a><br><br>Donations
     will close on the last day of the year.
   media:
-    image: "/uploads/2020/10/16/pic8.jpg"
+    image: "/uploads/2020/11/24/tjump.jpg"
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
