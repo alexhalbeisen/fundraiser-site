@@ -28,7 +28,7 @@ page_sections:
     alt_text: ''
 - template: detail-content
   block: text-1
-  headline: other charities she'd love to support
+  headline: Other charities she'd love to support
   content: <p>Although the fundraiser goal is towards the American Foundation for
     Suicide Prevention, here are more important organizations to consider.</p><ul><li><p><a
     href="https://twloha.com/" title="To Write Love on Her Arms">To Write Love on
@@ -41,7 +41,7 @@ page_sections:
 - template: detail-content
   block: text-1
   content: "<p>Please reach out if you'd like to know more about the fundraiser:</p><blockquote><p>alex.halbeisen@gmail.com</p></blockquote>"
-  headline: contact me
+  headline: 'Contact '
 - template: detail-content
   block: text-1
   headline: 'Future Plans '
