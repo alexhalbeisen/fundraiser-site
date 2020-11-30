@@ -12,7 +12,7 @@ page_sections:
     link_text: Resources
   - link: https://loveyourself.fund/more
     link_text: More
-  logo: "/uploads/2020/11/14/a-89291-mt-3.jpg"
+  logo: "/uploads/2020/11/30/big_logo_white_outline.png"
 - template: 1-column-text
   block: one-column-1
   headline: Love Yourself
