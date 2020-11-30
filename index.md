@@ -30,11 +30,11 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: 'Raising Awareness '
-  content: 'The goal of this fundraiser is to raise awareness of mental health and
+  content: The goal of this fundraiser is to raise awareness of mental health and
     provide aid for suicide prevention. In addition, to spread resources to those
-    struggling, or to anyone in a position of help.<br><br>These can be topics that
-    make us uncomfortable. But we have to build up our communities around accepting
-    mental health problems as a normal issue we face in our lives. '
+    struggling, or to anyone in a position of help. These can be topics that make
+    us uncomfortable. But we have to build up our communities around accepting mental
+    health problems as a normal issue we face in our lives.
   slug: ''
 - template: content-feature
   block: feature-1
