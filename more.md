@@ -42,6 +42,11 @@ page_sections:
   block: text-1
   content: "<p>Please reach out if you'd like to know more about the fundraiser:</p><blockquote><p>alex.halbeisen@gmail.com</p></blockquote>"
   headline: contact me
+- template: detail-content
+  block: text-1
+  headline: 'Future Plans '
+  content: "<p>I'd like to continue this fundraiser yearly and host a physical fundraiser
+    whenever it's safe to do so.</p>"
 - template: simple-footer
   block: footer-1
   content: 'artwork by <a href="https://www.instagram.com/warmhalos/" title="Bri''s
