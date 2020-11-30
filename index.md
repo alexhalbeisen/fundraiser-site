@@ -17,8 +17,8 @@ page_sections:
   block: hero-2
   slug: features
   headline: love yourself<br><strong>virtual</strong> <strong>fundraiser walk</strong>
-  content: For mental health awareness &amp; suicide prevention<br>During the month
-    of December<br>
+  content: For mental health awareness &amp; <br>suicide prevention<br><br>During
+    the month of December<br>
   cta:
     enabled: true
     url: https://afsp.donordrive.com/campaign/love-yourself
