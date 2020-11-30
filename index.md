@@ -24,7 +24,7 @@ page_sections:
     url: https://afsp.donordrive.com/campaign/love-yourself
     button_text: DONATE
   image:
-    image: "/uploads/2020/11/14/a-89291-mt-3.png"
+    image: "/uploads/2020/11/30/a-89291-mt-3.png"
     alt_text: ''
   background_image: "/uploads/2020/11/09/n-n-btbjcfuvbxs-unsplash.jpg"
 - template: 1-column-text
