@@ -16,9 +16,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: love yourself<br><strong>awareness</strong> <strong>fundraiser </strong>
-  content: mental health awareness &amp; suicide prevention<br>virtual 5K, weekend
-    of December 5th<br>
+  headline: love yourself<br><strong>virtual</strong> <strong>fundraiser 5K</strong>
+  content: for mental health awareness &amp; suicide prevention<br>virtual 5K, month
+    of December<br>
   cta:
     enabled: true
     url: https://afsp.donordrive.com/campaign/love-yourself
