@@ -29,7 +29,7 @@ page_sections:
   background_image: "/uploads/2020/11/09/n-n-btbjcfuvbxs-unsplash.jpg"
 - template: 1-column-text
   block: one-column-1
-  headline: RasinbMental Health Awareness & suicide prevention
+  headline: 'Raising Awareness '
   content: The goal of this fundraiser is to raise awareness of mental health and
     suicide prevention. To provide resources to those struggling, or anyone who can
     lead knowledge to those in need.<br><br>These can be topics that we don't know
