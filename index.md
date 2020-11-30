@@ -29,7 +29,7 @@ page_sections:
   background_image: "/uploads/2020/11/09/n-n-btbjcfuvbxs-unsplash.jpg"
 - template: 1-column-text
   block: one-column-1
-  headline: "..."
+  headline: RasinbMental Health Awareness & suicide prevention
   content: The goal of this fundraiser is to raise awareness of mental health and
     suicide prevention. To provide resources to those struggling, or anyone who can
     lead knowledge to those in need.<br><br>These can be topics that we don't know
@@ -102,6 +102,6 @@ page_sections:
   slug: ''
 - template: simple-footer
   block: footer-1
-  content: organized by Alex Halbeisen ❤️
+  content: 'organized by Alex Halbeisen '
 
 ---
