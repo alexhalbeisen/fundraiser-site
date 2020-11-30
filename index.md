@@ -16,7 +16,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: love yourself<br><strong>virtual</strong> <strong>fundraiser 5K</strong>
+  headline: love yourself<br><strong>virtual</strong> <strong>5K</strong> <strong>fundraiser</strong>
   content: for mental health awareness &amp; suicide prevention<br>virtual 5K, month
     of December<br>
   cta:
