@@ -41,23 +41,19 @@ page_sections:
   media_alignment: Left
   slug: about
   headline: "<strong>For Tierica Pang</strong>"
-  content: December 5th would have been her 26th birthday. She never cared for material
+  content: December 5th would have been her birthday. She never cared for material
     or extravagant gestures. It was always the little and meaningful things she appreciated
     most. If something supported a greater good, like better for our planet or its
-    inhabitants, she'd rather money go there instead. Collectively, these contributions
-    lead to a change that can make a difference. <br><br>She was an advocate for being
-    kind and forgiving towards yourself. Even if you were having a challenging day,
-    she'd encourage you to take it one step at a time. Continue to make those tiny
-    strides and accomplish one small goal at a time. It's okay to not tackle everything
-    at once. These movements are what get you to where you want in the end.<br><br>I've
-    been faced with this personal challenge of honoring her. Unsure where to even
-    begin, I have to start somewhere so long as I keep moving. So here is the first
-    step in her honor. This is what she would want for the world; continue to help
-    those who are struggling. Love yourself and others around you. Continue to be.
-    This is our gift to her.<br><br>A memorial has been created with the <strong>American
-    Foundation for Suicide Prevention</strong> in her name. Any amount helps in this
-    cause.<br><strong><br></strong><a href="https://afsp.donordrive.com/campaign/love-yourself"
-    title="https://afsp.donordrive.com/campaign/love-yourself">https://afsp.donordrive.com/campaign/love-yourself</a><br><br>Donations
+    inhabitants, she'd rather money go there instead. <br><br>She was an incredibly
+    selfless person dedicated to thinking of needs beyond her own. Even if she were
+    having a challenging day, she'd still be there to support those around her. <br><br>We
+    lost a voice that advocated so openly and passionately for people to recognize
+    the effects of mental health on our society. But, with her it doesn't end. For
+    others, there is still hope. This is what she would want for the world; fighting
+    to help those who are struggling. Love yourself and others around you. Continue
+    to be. <br><br>A memorial has been created with the <strong>American Foundation
+    for Suicide Prevention</strong> in her name. Any amount helps in this cause.<br><strong><br></strong><a
+    href="https://afsp.donordrive.com/campaign/love-yourself" title="https://afsp.donordrive.com/campaign/love-yourself">https://afsp.donordrive.com/campaign/love-yourself</a><br><br>Donations
     will close on the last day of the year.
   media:
     image: "/uploads/2020/11/24/tjump.jpg"
