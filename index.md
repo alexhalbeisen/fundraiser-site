@@ -17,8 +17,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: love yourself<br><strong>virtual</strong> <strong>5K</strong> <strong>fundraiser</strong>
-  content: for mental health awareness &amp; suicide prevention<br>virtual 5K, month
-    of December<br>
+  content: for mental health awareness &amp; suicide prevention<br>month of December<br>
   cta:
     enabled: true
     url: https://afsp.donordrive.com/campaign/love-yourself
