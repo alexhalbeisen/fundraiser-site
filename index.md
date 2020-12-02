@@ -100,7 +100,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Status
-  content: <p></p><p>&lt;a href="https://afsp.donordrive.com/index.cfm?fuseaction=donorDrive.personalCampaign&amp;participantID=2378633"&gt;Make
-    a Donation!&lt;/a&gt;</p><p></p>
+  content: <p></p><p>&lt;a href="<a href="https://afsp.donordrive.com/index.cfm?fuseaction=widgets.300x250thermo&amp;participantID=2378633"
+    title="https://afsp.donordrive.com/index.cfm?fuseaction=widgets.300x250thermo&amp;participantID=2378633">https://afsp.donordrive.com/index.cfm?fuseaction=widgets.300x250thermo&amp;participantID=2378633</a>"&gt;Make
+    a Donation!&lt;/a&gt;</p><p></p><p></p><p></p>
 
 ---
