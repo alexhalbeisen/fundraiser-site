@@ -45,8 +45,9 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: 'Future Plans '
-  content: "<p>I'd like to continue this fundraiser yearly and host a physical fundraiser
-    whenever it's safe to do so.</p>"
+  content: "<p>I'd like to continue this fundraiser yearly, or the nature of it by
+    supporting an important cause, and host an in-person event when it's safe to do
+    so.</p>"
 - template: simple-footer
   block: footer-1
   content: 'artwork by <a href="https://www.instagram.com/warmhalos/" title="Bri''s
