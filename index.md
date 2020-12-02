@@ -97,5 +97,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: 'organized by Alex Halbeisen '
+- template: detail-content
+  block: text-1
+  headline: Status
+  content: <p></p><p>&lt;a href="https://afsp.donordrive.com/index.cfm?fuseaction=donorDrive.personalCampaign&amp;participantID=2378633"&gt;Make
+    a Donation!&lt;/a&gt;</p><p></p>
 
 ---
