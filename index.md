@@ -89,7 +89,7 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2020/11/26/a-89291_at-1.png"
+    image: "/uploads/2020/12/02/work-64029799-sticker.jpg"
     caption: ''
   image_2:
     image: "/uploads/2020/12/02/work-64029799-classic-t-shirt.jpg"
