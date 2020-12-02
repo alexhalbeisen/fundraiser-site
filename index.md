@@ -71,13 +71,12 @@ page_sections:
   content: '<strong><span style="text-decoration: underline;">12/2:</span></strong><br>Due
     to COVID cases rising, this event will be entirely virtual. By either a trail
     walk, loop around your neighborhood, or on the treadmill, this will allow anybody
-    to participate.<br><br>For people to track their 5K, feel free to use any fitness
-    app. My preference is the <a href="https://www.strava.com/mobile" title="Strava
-    link" target="_blank">Strava</a> app, which features the ability to map out a
-    route in your area.<br><br>On the weekend of <strong>December 5th</strong>, get
-    out there and share your activity on Facebook, Instagram, or Twitter with the
-    hashtag <strong>#LoveYourself2020</strong>.<br><br>Please remember to stay safe,
-    warm, and social distance. <br><br><br>'
+    to participate.<br><br>For the <strong>entire month of December</strong>, share
+    your activity on any social platform and label it with the hashtag <strong>#LoveYourself2020</strong>.<br><br>For
+    people to track their 5K, feel free to use any fitness app. My preference is the
+    <a href="https://www.strava.com/mobile" title="Strava link" target="_blank">Strava</a>
+    app, which features the ability to map out a route in your area.<br><br>Please
+    remember to stay safe, warm, and social distance. <br><br><br>'
   slug: info
   media:
     image: "/uploads/2020/11/16/strava.png"
