@@ -54,7 +54,7 @@ page_sections:
     to be. <br><br>A memorial has been created with the <strong>American Foundation
     for Suicide Prevention</strong> in her name. Any amount helps in this cause.<br><br>Donations
     will close on the last day of the year.<br><strong><br></strong><a href="https://afsp.donordrive.com/campaign/love-yourself"
-    title="https://afsp.donordrive.com/campaign/love-yourself">https://afsp.donordrive.com/campaign/love-yourself</a><br>
+    title="donate link"><strong>Donate here</strong></a><strong> </strong><br>
   media:
     image: "/uploads/2020/11/24/tjump.jpg"
     alt_text: ''
