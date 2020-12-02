@@ -83,7 +83,7 @@ page_sections:
     alt_text: ''
 - template: detail-content
   block: text-1
-  headline: Shop
+  headline: Fundraiser Shop
   content: "<p>Love Yourself art will be available to purchase on RedBubble. All profits
     will be donated towards the fundraiser.</p><p></p><p>ADDING LINK HERE WHEN AVAIL</p>"
 - template: 2-column-media-element
