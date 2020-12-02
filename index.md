@@ -58,12 +58,6 @@ page_sections:
   media:
     image: "/uploads/2020/11/24/tjump.jpg"
     alt_text: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: Information
-  content: Information such as important updates, fundraiser status, event details,
-    and more will be posted below.
-  slug: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
