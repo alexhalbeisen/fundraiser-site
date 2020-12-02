@@ -81,12 +81,11 @@ page_sections:
   media:
     image: "/uploads/2020/11/16/strava.png"
     alt_text: ''
-- template: 1-column-text
-  block: one-column-1
-  content: An online store for purchasing Love Yourself wear will be released here.<br><br>(All
-    profits will be donated towards the fundraiser)
+- template: detail-content
+  block: text-1
   headline: Shop
-  slug: ''
+  content: "<p>An online store for purchasing Love Yourself wear will be released
+    here. <br><br>(All profits will be donated towards the fundraiser)</p>"
 - template: 2-column-media-element
   block: media-2
   image_1:
