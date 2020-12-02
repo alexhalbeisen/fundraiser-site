@@ -62,15 +62,14 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: "<strong>Event Participation</strong>"
-  content: Due to COVID cases rising, this event will be entirely virtual. By either
+  content: 'Due to COVID cases rising, this event will be entirely virtual. By either
     a trail walk, loop around your neighborhood, or on the treadmill, this will allow
     anybody to participate.<br><br>For the <strong>entire month of December</strong>,
     share your activity on any social platform and label your post with the hashtag<strong>
     loveyourself2020</strong>.<br><br>For people to track their 5K, feel free to use
-    any fitness app. I recommend the <a href="https://www.strava.com/mobile" title="Strava
-    link" target="_blank">Strava</a> app, which features the ability to map out a
-    route in your area.<br><br>Please remember to stay safe, warm, and social distance.
-    <br><br><br>
+    any fitness app (recommendation: the <a href="https://www.strava.com/mobile" title="Strava
+    link" target="_blank">Strava</a> app features the ability to map out a route in
+    your area).<br><br>Please remember to stay safe, warm, and social distance. '
   slug: info
   media:
     image: "/uploads/2020/12/02/image0.png"
