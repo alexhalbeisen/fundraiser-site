@@ -68,15 +68,16 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: "<strong>Event Participation</strong>"
-  content: '<strong><span style="text-decoration: underline;">11/11:</span></strong><br>Due
+  content: '<strong><span style="text-decoration: underline;">12/2:</span></strong><br>Due
     to COVID cases rising, this event will be entirely virtual. By either a trail
     walk, loop around your neighborhood, or on the treadmill, this will allow anybody
     to participate.<br><br>For people to track their 5K, feel free to use any fitness
     app. My preference is the <a href="https://www.strava.com/mobile" title="Strava
-    link">Strava</a> app, which features the ability to map out a route in your area.<br><br>On
-    the weekend of <strong>December 5th</strong>, get out there and share your activity
-    on Facebook, Instagram, or Twitter with the hashtag <strong>#LoveYourself2020</strong>.<br><br>Please
-    remember to stay safe, warm, and social distance. <br><br><br>'
+    link" target="_blank">Strava</a> app, which features the ability to map out a
+    route in your area.<br><br>On the weekend of <strong>December 5th</strong>, get
+    out there and share your activity on Facebook, Instagram, or Twitter with the
+    hashtag <strong>#LoveYourself2020</strong>.<br><br>Please remember to stay safe,
+    warm, and social distance. <br><br><br>'
   slug: info
   media:
     image: "/uploads/2020/11/16/strava.png"
