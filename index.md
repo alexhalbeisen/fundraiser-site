@@ -81,20 +81,6 @@ page_sections:
   media:
     image: "/uploads/2020/11/16/strava.png"
     alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: "<strong>Shop</strong>"
-  content: '<strong><span style="text-decoration: underline;">11/11:</span></strong><br>An
-    online store for purchasing Love Yourself wear will be added soon. Please check
-    back later for updates. <br><br>(All profits will be donated towards the fundraiser)<br><br><strong><span
-    style="text-decoration: underline;">11/19:</span></strong><br>Designs are currently
-    being finalized. The shop and overall announcement will go live once these are
-    wrapped up.<br>'
-  media:
-    image: "/uploads/2020/11/26/a-89291_at-1.png"
-    alt_text: ''
-  slug: ''
 - template: 1-column-text
   block: one-column-1
   content: An online store for purchasing Love Yourself wear will be added soon. Please
