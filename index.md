@@ -83,9 +83,8 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  content: An online store for purchasing Love Yourself wear will be added soon. Please
-    check back later for updates. <br><br>(All profits will be donated towards the
-    fundraiser)
+  content: An online store for purchasing Love Yourself wear will be released here.<br><br>(All
+    profits will be donated towards the fundraiser)
   headline: Shop
   slug: ''
 - template: 2-column-media-element
