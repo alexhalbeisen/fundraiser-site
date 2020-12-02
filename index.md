@@ -73,7 +73,7 @@ page_sections:
     <br><br><br>
   slug: info
   media:
-    image: "/uploads/2020/11/16/strava.png"
+    image: "/uploads/2020/12/02/image0.png"
     alt_text: ''
 - template: detail-content
   block: text-1
