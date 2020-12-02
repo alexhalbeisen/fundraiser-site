@@ -71,11 +71,11 @@ page_sections:
   content: Due to COVID cases rising, this event will be entirely virtual. By either
     a trail walk, loop around your neighborhood, or on the treadmill, this will allow
     anybody to participate.<br><br>For the <strong>entire month of December</strong>,
-    share your activity on any social platform and label it with the hashtag <strong>#LoveYourself2020</strong>.<br><br>For
+    share your activity on any social platform and label it with the hashtag <strong>#loveyourself2020</strong>.<br><br>For
     people to track their 5K, feel free to use any fitness app. I recommend the <a
-    href="https://www.strava.com/mobile" title="Strava link">Strava</a> app, which
-    features the ability to map out a route in your area.<br><br>Please remember to
-    stay safe, warm, and social distance. <br><br><br>
+    href="https://www.strava.com/mobile" title="Strava link" target="_blank">Strava</a>
+    app, which features the ability to map out a route in your area.<br><br>Please
+    remember to stay safe, warm, and social distance. <br><br><br>
   slug: info
   media:
     image: "/uploads/2020/11/16/strava.png"
