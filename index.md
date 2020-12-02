@@ -84,8 +84,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Shop
-  content: "<p>An online store for purchasing Love Yourself wear will be released
-    here. <br><br>(All profits will be donated towards the fundraiser)</p>"
+  content: "<p>Love Yourself art will be available to purchase on RedBubble. All profits
+    will be donated towards the fundraiser.</p><p></p><p>ADDING LINK HERE WHEN AVAIL</p>"
 - template: 2-column-media-element
   block: media-2
   image_1:
