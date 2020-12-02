@@ -103,6 +103,6 @@ page_sections:
   col_3: <a href="https://afsp.donordrive.com/campaign/love-yourself" title="donate
     link" target="_blank">Donate</a>
   col_4: <a href="https://loveyourself.fund/resources" title="resources" target="_blank">Resources</a>
-  image: ''
+  image: "/uploads/2020/11/30/big_logo_white_outline.png"
 
 ---
