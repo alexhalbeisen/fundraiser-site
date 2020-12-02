@@ -75,8 +75,8 @@ page_sections:
     app. My preference is the <a href="https://www.strava.com/mobile" title="Strava
     link">Strava</a> app, which features the ability to map out a route in your area.<br><br>On
     the weekend of <strong>December 5th</strong>, get out there and share your activity
-    on Facebook, Instagram, or Twitter with the hashtag <strong>#LoveYourself2020</strong>!
-    <br><br>Please remember to stay safe, warm, and social distance. <br><br><br>'
+    on Facebook, Instagram, or Twitter with the hashtag <strong>#LoveYourself2020</strong>.<br><br>Please
+    remember to stay safe, warm, and social distance. <br><br><br>'
   slug: info
   media:
     image: "/uploads/2020/11/16/strava.png"
