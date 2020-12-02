@@ -16,7 +16,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: About
+  headline: "<strong>About</strong>"
   content: Hi - my name is Alex. I was lucky enough to have known Tierica. My best
     friend and the strongest, most selfless person, she is the reason for all of this.<br><br>To
     her family and close friends, I'm proud to have created this fundraiser as a way
