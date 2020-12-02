@@ -1,4 +1,19 @@
 ---
-label: donate button
-hide_body: true
-fields: []
+label: button
+hide_body: false
+fields:
+- name: cta
+  type: field_group
+  config: {}
+  fields:
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button Text
+  label: Call-to-action
