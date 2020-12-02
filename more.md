@@ -50,8 +50,7 @@ page_sections:
     so.</p>"
 - template: simple-footer
   block: footer-1
-  content: 'artwork by <a href="https://www.instagram.com/warmhalos/" title="Bri''s
-    insta">Brianna Nil</a> : <a href="https://brandyklork.wixsite.com/briannanil"
-    title="Bri''s site">support</a> a local artist<br>'
+  content: artwork by <a href="https://www.instagram.com/warmhalos/" title="Bri's
+    insta" target="_blank">Brianna Nil</a><br>
 
 ---
