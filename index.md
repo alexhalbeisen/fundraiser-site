@@ -95,6 +95,14 @@ page_sections:
     image: "/uploads/2020/11/26/a-89291_at-1.png"
     alt_text: ''
   slug: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/11/26/a-89291_at-1.png"
+    caption: ''
+  image_2:
+    image: "/uploads/2020/12/02/work-64029799-classic-t-shirt.jpg"
+    caption: ''
 - template: simple-footer
   block: footer-1
   content: 'organized by Alex Halbeisen '
