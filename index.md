@@ -100,8 +100,11 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Status
-  content: <p></p><p>&lt;iframe src="https://afsp.donordrive.com/index.cfm?fuseaction=widgets.300x250thermo&amp;participantID=2378633"
-    width="302" height="252" frameborder="0" scrolling="no"&gt;&lt;a href="https://afsp.donordrive.com/index.cfm?fuseaction=donorDrive.personalCampaign&amp;participantID=2378633"&gt;Make
-    a Donation!&lt;/a&gt;&lt;/iframe&gt;</p><p></p><p></p><p></p><p></p><p></p>
+  content: <p></p><p>&lt;div class="embed-donation-banner"&gt;</p><p>&lt;iframe class="embed-donation-button"</p><p>src="<a
+    href="https://afsp.donordrive.com/index.cfm?fuseaction=widgets.300x250thermo&amp;participantID=2378633"
+    title="https://afsp.donordrive.com/index.cfm?fuseaction=widgets.300x250thermo&amp;participantID=2378633">https://afsp.donordrive.com/index.cfm?fuseaction=widgets.300x250thermo&amp;participantID=2378633</a>"
+    width="302" height="252" frameborder="0" scrolling="no"&gt;&lt;a href="<a href="https://afsp.donordrive.com/index.cfm?fuseaction=donorDrive.personalCampaign&amp;participantID=2378633"
+    title="https://afsp.donordrive.com/index.cfm?fuseaction=donorDrive.personalCampaign&amp;participantID=2378633">https://afsp.donordrive.com/index.cfm?fuseaction=donorDrive.personalCampaign&amp;participantID=2378633</a>"&gt;Make
+    a Donation!&lt;/a&gt;&lt;/iframe&gt;</p><p>&lt;/div&gt;</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
 
 ---
