@@ -92,7 +92,7 @@ page_sections:
     image: "/uploads/2020/12/02/work-64029799-sticker.jpg"
     caption: ''
   image_2:
-    image: "/uploads/2020/12/02/work-64029799-classic-t-shirt.jpg"
+    image: "/uploads/2020/12/02/work-64029799-classic-t-shirt-1.jpg"
     caption: ''
 - template: simple-footer
   block: footer-1
