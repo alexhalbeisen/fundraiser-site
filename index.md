@@ -100,6 +100,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Status
-  content: "<p></p>"
+  content: <p>&lt;div class="embed-responsive embed-responsive-16by9"&gt;</p><p>  &lt;iframe
+    class="embed-responsive-item" src="https://afsp.donordrive.com/index.cfm?fuseaction=widgets.300x250thermo&amp;participantID=2378633"&gt;&lt;/iframe&gt;</p><p>&lt;/div&gt;</p>
 
 ---
