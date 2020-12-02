@@ -67,7 +67,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>5K Details</strong>"
+  headline: "<strong>Event Participation</strong>"
   content: '<strong><span style="text-decoration: underline;">11/11:</span></strong><br>Due
     to COVID cases rising, this event will be entirely virtual. By either a trail
     walk, loop around your neighborhood, or on the treadmill, this will allow anybody
