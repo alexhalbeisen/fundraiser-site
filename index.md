@@ -95,6 +95,13 @@ page_sections:
     image: "/uploads/2020/11/26/a-89291_at-1.png"
     alt_text: ''
   slug: ''
+- template: 1-column-text
+  block: one-column-1
+  content: An online store for purchasing Love Yourself wear will be added soon. Please
+    check back later for updates. <br><br>(All profits will be donated towards the
+    fundraiser)
+  headline: Shop
+  slug: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
