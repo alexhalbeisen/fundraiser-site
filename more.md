@@ -21,7 +21,8 @@ page_sections:
     friend and the strongest, most selfless person, she is the reason for all of this.<br><br>To
     her family and close friends, I'm proud to have created this fundraiser as a way
     for us all to see her legacy continue to grow. To strangers, thank you for showing
-    interest in this.
+    interest in this.<br><br>Also, the animals on the home page are Essie, our dog,
+    and her cat, Milo.
   slug: ''
   media:
     image: "/uploads/2020/11/14/image0.png"
