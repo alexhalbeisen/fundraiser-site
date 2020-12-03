@@ -53,7 +53,7 @@ page_sections:
     to do so.</p>"
 - template: simple-footer
   block: footer-1
-  content: artwork by <a href="https://www.instagram.com/warmhalos/" title="Bri's
-    insta" target="_blank">Brianna Nil</a><br>
+  content: artwork (Milo &amp; Essie, T &amp; Alex) by <a href="https://www.instagram.com/warmhalos/"
+    title="Bri's insta">Brianna Nil</a> <br>
 
 ---
