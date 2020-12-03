@@ -41,7 +41,9 @@ page_sections:
     href="http://www.100percenthuman.org/" title="100% HUMAN">100% HUMAN</a></p></li></ul>
 - template: detail-content
   block: text-1
-  content: "<p>Please reach out if you'd like to know more about the fundraiser:</p><blockquote><p>alex.halbeisen@gmail.com</p></blockquote>"
+  content: <p>Please reach out if you'd like to know more about the fundraiser:</p><blockquote><p>alex.halbeisen@gmail.com</p></blockquote><p><a
+    href="https://www.facebook.com/donate/313379846427227/" title="fb">Follow and
+    share the fundraiser on Facebook</a></p>
   headline: 'Contact '
 - template: detail-content
   block: text-1
