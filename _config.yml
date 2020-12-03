@@ -2,7 +2,7 @@
 title: loveyourself
 author: Alexander Halbeisen
 email: alex.halbeisen@gmail.com
-description: For my loved one.
+description: For T.
 baseurl: "/"
 url: loveryourself.fund
 defaults:
@@ -15,5 +15,5 @@ plugins:
 - jekyll-menus
 menu:
   main:
-    weight: 3
+    weight: "3"
     title: More
