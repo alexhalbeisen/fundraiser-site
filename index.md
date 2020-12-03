@@ -69,7 +69,7 @@ page_sections:
     loveyourself2020</strong>.<br><br>For tracking your 5K, feel free to use any fitness
     app (recommendation: the <a href="https://www.strava.com/mobile" title="Strava
     link" target="_blank">Strava</a> app features the ability to map out a route in
-    your area).<br><br>Please remember to stay safe, warm, and social distance.'
+    your area).<br><br>Please remember to stay safe, keep warm, and social distance.'
   slug: info
   media:
     image: "/uploads/2020/12/02/image0.png"
