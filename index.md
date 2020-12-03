@@ -72,7 +72,7 @@ page_sections:
     your area).<br><br>Please remember to stay safe, keep warm, and social distance.'
   slug: info
   media:
-    image: "/uploads/2020/12/02/image0.png"
+    image: "/uploads/2020/12/03/image0.png"
     alt_text: ''
 - template: detail-content
   block: text-1
