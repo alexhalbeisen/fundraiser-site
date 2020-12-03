@@ -52,9 +52,10 @@ page_sections:
     others, there is still hope. This is what she would want for the world; fight
     to help those who are struggling. Love yourself and others around you. Continue
     to be. <br><br>A memorial has been created with the <strong>American Foundation
-    for Suicide Prevention</strong> in her name. Any amount helps in this cause.<br><br>Donations
-    will close on the last day of the year.<br><strong><br></strong><a href="https://afsp.donordrive.com/campaign/love-yourself"
-    title="donate link" target="_blank"><strong>Donate here</strong></a><strong> </strong><br>
+    for Suicide Prevention</strong> in her name. Any amount helps in this cause. Thank
+    you.<br><br>Donations will close on the last day of the year.<br><strong><br></strong><a
+    href="https://afsp.donordrive.com/campaign/love-yourself" title="donate link"><strong>Donate
+    here</strong></a><strong> </strong><br>
   media:
     image: "/uploads/2020/11/24/tjump.jpg"
     alt_text: ''
