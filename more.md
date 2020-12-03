@@ -47,7 +47,8 @@ page_sections:
   block: text-1
   headline: 'Future Plans '
   content: "<p>I plan for this to be a yearly fundraiser, continuing to support and
-    advocate for these issues. Also, host an physical event when it's safe to do so.</p>"
+    advocate for these issues. For next year, a physical event if and when it's safe
+    to do so.</p>"
 - template: simple-footer
   block: footer-1
   content: artwork by <a href="https://www.instagram.com/warmhalos/" title="Bri's
