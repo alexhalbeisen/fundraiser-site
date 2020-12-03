@@ -78,7 +78,7 @@ page_sections:
   block: text-1
   headline: Fundraiser Shop
   content: <p>Love Yourself merch will be available to purchase on RedBubble. All
-    profits will be donated towards the fundraiser.</p><p>Credit to Brianna Nil for
+    profits will be donated towards the fundraiser.</p><p>*Credit to Brianna Nil for
     working on some of the digital art (Milo &amp; Essie, T &amp; Alex).</p><p></p><blockquote><p><a
     href="https://www.redbubble.com/people/alexhalbeisen/shop?asc=u" title="store"><strong>Shop
     the store</strong></a></p></blockquote>
