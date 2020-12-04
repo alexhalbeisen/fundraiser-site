@@ -76,8 +76,12 @@ page_sections:
     share your activity on any social platform and label your post with the hashtag<strong>
     loveyourself2020</strong>.<br><br>For tracking your 5K, feel free to use any fitness
     app (recommendation: the <a href="https://www.strava.com/mobile" title="Strava
-    link">Strava</a> app features the ability to map out a route in your area).<br><br>Please
-    remember to stay safe, keep warm, and social distance.'
+    link">Strava</a> app features the ability to map out a route in your area).<br><br><strong>Looking
+    for another walk to complete?<br><br></strong>AFSP<strong> </strong>hosts walks
+    all year to raise money. Register for one in the future!<strong><br></strong><a
+    href="https://afsp.donordrive.com/index.cfm?fuseaction=cms.page&amp;id=1370" title="AFSP
+    walks"><strong>Visit AFSP to discover more walks</strong></a><strong> </strong><br><br>Please
+    remember to stay safe, keep warm, and social distance.<br>'
   slug: info
   media:
     image: "/uploads/2020/12/03/image0.png"
