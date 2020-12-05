@@ -74,8 +74,8 @@ page_sections:
     patience. You are important. You matter. You are not alone. There is strength
     and power in your vulnerability.<br><br>For the <strong>entire month of December</strong>,
     share your activity on any social platform and label your post with the hashtag<strong>
-    loveyourself5Kwalk</strong>.<br><br>For tracking your 5K, feel free to use any
-    fitness app (recommendation: the <a href="https://www.strava.com/mobile" title="Strava
+    loveyourself5K</strong>.<br><br>For tracking your 5K, feel free to use any fitness
+    app (recommendation: the <a href="https://www.strava.com/mobile" title="Strava
     link">Strava</a> app features the ability to map out a route in your area).<br><br><strong>Looking
     for another walk to complete?<br><br></strong>AFSP<strong> </strong>hosts walks
     all year to raise money. Register for one in the future!<strong><br></strong><a
