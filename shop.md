@@ -13,6 +13,14 @@ page_sections:
     link_text: Resources
   - link: https://loveyourself.fund/more
     link_text: More
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2020/12/31/a-89291-mt-4.png"
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 published: false
 
 ---
