@@ -63,9 +63,9 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: "<strong>Event Participation</strong>"
-  content: 'Due to COVID cases rising, this event will be entirely virtual. By either
+  content: Due to COVID cases rising, this event will be entirely virtual. By either
     a trail walk, loop around your neighborhood, or on the treadmill, this will allow
-    anybody to participate.<br><br><strong>How to participate though? </strong><br><br>To
+    anybody to participate.<br><br><strong>How to participate </strong><br><br>To
     participate, simply complete a 5K any time during the month of December. Consider
     using this walk, run, etc. to connect with yourself or someone you love (safely)
     on a deeper level. How are you really feeling? How can you support yourself? How
@@ -74,14 +74,12 @@ page_sections:
     patience. You are important. You matter. You are not alone. There is strength
     and power in your vulnerability.<br><br>For the <strong>entire month of December</strong>,
     share your activity on any social platform and label your post with the hashtag<strong>
-    loveyourself5K</strong>.<br><br>For tracking your 5K, feel free to use any fitness
-    app (recommendation: the <a href="https://www.strava.com/mobile" title="Strava
-    link">Strava</a> app features the ability to map out a route in your area).<br><br><strong>Looking
+    loveyourself5K</strong>. Feel free to use any fitness app to track and share!
+    Please remember to stay safe, keep warm, and social distance.<br><br><strong>Looking
     for another walk to complete?<br><br></strong>AFSP<strong> </strong>hosts walks
     all year to raise money. Register for one in the future!<strong><br></strong><a
     href="https://afsp.donordrive.com/index.cfm?fuseaction=cms.page&amp;id=1370" title="AFSP
-    walks"><strong>Visit AFSP to discover more walks</strong></a><strong> </strong><br><br>Please
-    remember to stay safe, keep warm, and social distance.<br>'
+    walks"><strong>Visit AFSP to discover more walks</strong></a><strong> </strong><br><br><br>
   slug: info
   media:
     image: "/uploads/2020/12/03/image0.png"
