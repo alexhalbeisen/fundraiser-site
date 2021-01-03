@@ -87,9 +87,11 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Fundraiser Shop
-  content: <p>Love Yourself merch will be available to purchase on RedBubble. 100%
-    of the profits will be donated towards the fundraiser.</p><blockquote><p><a href="https://www.redbubble.com/people/alexhalbeisen/explore?asc=u&amp;page=1&amp;sortOrder=recent"
-    title="store"><strong>Shop the store</strong></a></p></blockquote>
+  content: '<p>Love Yourself merch will be available to purchase on RedBubble. 100%
+    of the profits will be donated towards the fundraiser.</p><p>Update: For friends
+    and family, since the fundraiser is now over, everything is available at cost.
+    </p><blockquote><p><a href="https://www.redbubble.com/people/alexhalbeisen/explore?asc=u&amp;page=1&amp;sortOrder=recent"
+    title="store"><strong>Shop the store</strong></a></p></blockquote>'
 - template: 2-column-media-element
   block: media-2
   image_1:
