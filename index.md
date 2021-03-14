@@ -48,7 +48,7 @@ page_sections:
     selfless person dedicated to thinking of needs beyond her own. Even if she were
     having a challenging day, she'd still be there to support those around her. <br><br>We
     lost a voice that advocated so openly and passionately for people to recognize
-    the effects of mental health on our society. But, with her it doesn't end. For
+    the effects of mental health in our society. But, with her it doesn't end. For
     others, there is still hope. This is what she would want for the world; fight
     to help those who are struggling. Love yourself and others around you. Continue
     to be. <br><br>A memorial has been created with the <strong>American Foundation
